@@ -3,10 +3,9 @@ title = "關於本指南"
 weight = 8
 +++
 
-[//]: # (#TODO)
 ## 感謝你閱讀本指南！
 
-如果你發現任何錯處或想提出建議，請往Github創建[Issue](/)。
+如果你發現任何錯處或想提出建議，請往Github創建[Issue](https://github.com/regunakyle/LIHKG-Gwent-guide/issues)。
 
 &nbsp;
 

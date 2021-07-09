@@ -4,6 +4,8 @@ title = "LIHKG Gwent Guide"
 
 theme = "hugo-theme-learn"
 
+publishDir = "docs"
+
 [outputs]
     home = [ "HTML", "RSS", "JSON"]
 
@@ -24,7 +26,6 @@ url = "http://localhost:1313/others/#其他相關網站"
 weight = 20
 
 [[menu.shortcuts]] 
-#TODO : Github repo link
 name = "<i class='fab fa-github'></i> Github"
-url = "/"
+url = "https://regunakyle.github.io/LIHKG-Gwent-guide/"
 weight = 21
