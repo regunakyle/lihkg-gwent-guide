@@ -1,0 +1,30 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "LIHKG Gwent Guide"
+
+theme = "hugo-theme-learn"
+
+[outputs]
+    home = [ "HTML", "RSS", "JSON"]
+
+[params]
+    custom_css = ["css/custom.css"]
+    disableLandingPageButton = true
+    # Disabled because it is not working correctly with Chinese characters.
+    disableSearch = true
+
+[[menu.shortcuts]] 
+name = "<i class='fa fa-comments'></i> 最新LIHKG貼文（15）"
+url = "https://lih.kg/aLDJNfU"
+weight = 20
+
+[[menu.shortcuts]] 
+name = "<i class='fas fa-network-wired'></i> 相關網站"
+url = "http://localhost:1313/others/#其他相關網站"
+weight = 20
+
+[[menu.shortcuts]] 
+#TODO : Github repo link
+name = "<i class='fab fa-github'></i> Github"
+url = "/"
+weight = 21

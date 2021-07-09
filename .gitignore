@@ -1,0 +1,6 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+#general
+.vscode/
+hugo_extended_0.84.4_Windows-64bit/
+bootDev.bat
