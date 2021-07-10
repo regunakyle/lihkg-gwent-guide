@@ -17,7 +17,7 @@ weight = 8
 
 #### 授權
 
-本指南遵循[「署名-相同方式共享 4.0 國際」協議](https://choosealicense.com/licenses/cc-by-sa-4.0/)。
+本指南遵循[「署名-相同方式共享 4.0 國際」](https://choosealicense.com/licenses/cc-by-sa-4.0/)協議。
 
 __轉載請註明出處。__
 

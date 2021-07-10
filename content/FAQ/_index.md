@@ -119,7 +119,7 @@ A. 如果已經決定好要專注某一個陣營既話，就全力買陣營桶�
 
 如果未決定專注既陣營，就開住終極（Ultimate）桶先。
 
-如果想課金，請睇[課金Section](../premium/)。
+如果想課金，請睇[課金Section](../paidcontent/)。
 
 &nbsp;
 
@@ -140,7 +140,7 @@ A. 有：可以去[Steam](https://store.steampowered.com/app/1284410/)或[GOG](h
 無論用邊個平台，你都係要先註冊一個GOG帳號先玩到。
 
 {{< rawhtml >}}
-<RedB>PC版(Steam/GOG)同手機版(iOS/Android)可以共用同一個GOG帳號.</RedB>
+<MO>PC版(Steam/GOG)同手機版(iOS/Android)可以共用同一個GOG帳號.</MO>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
@@ -176,4 +176,4 @@ A. 可以。
 
 *In order to change the username, please access the ACCOUNT & LOCALE section in GOG GALAXY 2.0 or [in a browser](https://www.gog.com/account/settings/personal) and click the CHANGE button next to your avatar.*
 
-[（返回快速導覽）](../#%u5FEB%u901F%u5C0E%u89BD)
+[（返回快速導覽）](../#quicknav)

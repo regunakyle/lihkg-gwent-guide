@@ -52,7 +52,7 @@ __（抄之前請先睇下文章既發佈時間，META通常每個月頭轉變�
 
 [Team Elder Blood: Meta Snapshot](https://teamelderblood.com/meta-snapshot/)
 
-有時間既話可以去[Twitch](../others/#q-%u6709%u54A9%u5BE6%u6CC1%u4E3B%u63A8%u85A6)/Youtube睇高手玩，順便抄埋佢地既卡組。
+有時間既話可以去[Twitch](../others/)/Youtube睇高手玩，順便抄埋佢地既卡組。
 
 {{< rawhtml >}}
 <div class="expand">
@@ -107,4 +107,4 @@ A. {{< rawhtml >}}
 
 另外，Starter Set既普卡唔可以鍍閃，想要閃卡就必須直接合。
 
-[（返回快速導覽）](../#%u5FEB%u901F%u5C0E%u89BD)
+[（返回快速導覽）](../#quicknav)

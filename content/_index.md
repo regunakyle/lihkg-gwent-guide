@@ -23,9 +23,11 @@
 
 **[領取免費卡桶及Witcher 1](https://www.gog.com/gwent-welcome-bonus)**
 
-&nbsp;
+{{< rawhtml >}}
+<a id="quicknav"></a>
+{{< /rawhtml >}}
 
-### 快速導覽
+## 快速導覽
 
 #### [常見問題](faq/)
 
@@ -33,7 +35,7 @@
 
 #### [砌卡組相關](deckbuilding/)
 
-#### [課金／單人模式相關](premium)
+#### [課金／單人模式相關](paidcontent/)
 
 #### [遊戲玩法相關](gameplay/)
 
