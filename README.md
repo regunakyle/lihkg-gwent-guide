@@ -1,4 +1,4 @@
-Repository of LIHKG Gwent Guide.
+Repository of the [LIHKG Gwent Guide](https://regunakyle.github.io/LIHKG-Gwent-guide/).
 
 Written by [Reguna](https://www.playgwent.com/en/invite-a-friend/LVWFHBSH03). (LIHKG Name: 極北鷲)
 
