@@ -47,7 +47,7 @@ __賽季活動（Seasonal Event）__  係歡樂模式，類似爐石大亂鬥，
 另外仲有個 __非排位（Unranked）__ 模式。要去訓練（Training）模式揀對陣玩家（Versus Player）先入到。
 
 唔推薦新手玩呢個，因為呢個模式少人玩，又多牛鬼蛇神（有機會撞到職業玩家 {{< rawhtml >}}
-<img src="/sosad.gif" style="display: inline-block; margin: unset;"/>
+<img src="/LIHKG-Gwent-guide/sosad.gif" style="display: inline-block; margin: unset;"/>
 {{< /rawhtml >}}）。
 
 &nbsp;
@@ -128,7 +128,7 @@ A. 如果已經決定好要專注某一個陣營既話，就全力買陣營桶�
 A. 可以上連登Post問。（淨係問金卡好喇，銅卡自己揀）
 
 Rule of thumb：有閃卡就揀閃卡 {{< rawhtml >}}
-<img src="/yup.gif" style="display: inline-block; margin: unset;"/>
+<img src="/LIHKG-Gwent-guide/yup.gif" style="display: inline-block; margin: unset;"/>
 {{< /rawhtml >}}
 
 &nbsp;
@@ -155,7 +155,7 @@ A. 有：可以去[Steam](https://store.steampowered.com/app/1284410/)或[GOG](h
         <i style="font-size: x-small;" class="fas fa-chevron-right"></i><bold>如果你係用Apple ID入坑，但又想玩PC版，請睇：</bold>
     </div>
     <div class="expand-content" style="display: none">
-        <pre><code class="hljs">（圖片摘自營地）<br/><br/><span style="display: inline-block;"><img src="/iOS.png" style="margin: unset;"/></span></code><span class="copy-to-clipboard" title="Copy to clipboard"></span></pre>
+        <pre><code class="hljs">（圖片摘自營地）<br/><br/><span style="display: inline-block;"><img src="/LIHKG-Gwent-guide/iOS.png" style="margin: unset;"/></span></code><span class="copy-to-clipboard" title="Copy to clipboard"></span></pre>
     </div>
 </div>
 {{< /rawhtml >}}
@@ -176,4 +176,4 @@ A. 可以。
 
 *In order to change the username, please access the ACCOUNT & LOCALE section in GOG GALAXY 2.0 or [in a browser](https://www.gog.com/account/settings/personal) and click the CHANGE button next to your avatar.*
 
-[（返回快速導覽）](../#快速導覽)
+[（返回快速導覽）](../#%u5FEB%u901F%u5C0E%u89BD)

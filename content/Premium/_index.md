@@ -19,7 +19,7 @@ A. Premium Pass ＋（特價時既）單人模式Thronebreaker ＋ 陣營包 ＋
 A. __Thronebreaker（中譯「王權的隕落」）__ 係一隻獨立於昆特既單機遊戲。
 
 遊戲講述萊里亞及利維亞女王[米薇](https://witcher.fandom.com/wiki/Meve)既故事。傑洛特都有出場，不過只有一次 {{< rawhtml >}}
-<img src="/sosad.gif" style="display: inline-block; margin: unset;"/>
+<img src="/LIHKG-Gwent-guide/sosad.gif" style="display: inline-block; margin: unset;"/>
 {{< /rawhtml >}}
 
 遊戲內戰鬥以昆特牌形式進行。如果認真玩，大約需要兩三日爆機。
@@ -32,7 +32,7 @@ A. __Thronebreaker（中譯「王權的隕落」）__ 係一隻獨立於昆特�
 
 __Thronebreaker有繁體中文同普通話配音__。
 
-{{< figure src="/thronebreaker.png">}}
+{{< figure src="/LIHKG-Gwent-guide/thronebreaker.png">}}
 
 &nbsp;
 
@@ -54,7 +54,7 @@ A. Thronebreaker既回報係：
 只需用半日時間就可以攞到差唔多所有獎勵，價格又唔太貴，非常抵買。
 
 （感謝 [打火石](https://www.playgwent.com/en/invite-a-friend/C7UK0AVO49) 巴打既提問，佢比我連續誤導左兩次 {{< rawhtml >}}
-<img src="/sosad.gif" style="display: inline-block; margin: unset;"/>
+<img src="/LIHKG-Gwent-guide/sosad.gif" style="display: inline-block; margin: unset;"/>
 {{< /rawhtml >}}）。
 
 &nbsp;
@@ -95,4 +95,4 @@ __麻煩用之前先將自己既存檔備份。__
 
 （在此感謝 miracle 巴打，呢個方法係佢搵到既）
 
-[（返回快速導覽）](../#快速導覽)
+[（返回快速導覽）](../#%u5FEB%u901F%u5C0E%u89BD)

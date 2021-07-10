@@ -1,5 +1,5 @@
 baseURL = "https://regunakyle.github.io/LIHKG-Gwent-guide/"
-languageCode = "en-us"
+languageCode = "zh-HK"
 title = "LIHKG Gwent Guide"
 
 theme = "hugo-theme-learn"
@@ -17,15 +17,16 @@ publishDir = "docs"
 
 [[menu.shortcuts]] 
 name = "<i class='fa fa-comments'></i> 最新LIHKG貼文（15）"
-url = "https://lih.kg/aLDJNfU"
+url = "https://lih.kg/2449224"
 weight = 20
 
+#todo
 [[menu.shortcuts]] 
 name = "<i class='fas fa-network-wired'></i> 相關網站"
-url = "http://localhost:1313/others/#其他相關網站"
-weight = 20
+url = "https://regunakyle.github.io/LIHKG-Gwent-guide/others/#其他相關網站"
+weight = 21
 
 [[menu.shortcuts]] 
 name = "<i class='fab fa-github'></i> Github"
-url = "https://regunakyle.github.io/LIHKG-Gwent-guide/"
-weight = 21
+url = "https://github.com/regunakyle/LIHKG-Gwent-guide/"
+weight = 22

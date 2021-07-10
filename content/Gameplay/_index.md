@@ -17,9 +17,9 @@ __1. 遊戲時，可以按右下自己卡組睇入面仲有咩卡。__
 __2. 每行最多放9張卡。__
 
 單位／{{< rawhtml >}}
-<span style="display: inline-block;width: 20px; height: 26.58px;"><img src="/typeArtifact.png" style="margin: unset;"/></span>
+<span style="display: inline-block;width: 20px; height: 26.58px;"><img src="/LIHKG-Gwent-guide/typeArtifact.png" style="margin: unset;"/></span>
 {{< /rawhtml >}}神器／ __先手__ {{< rawhtml >}}
-<span style="display: inline-block;width: 22.00px; height: 20.00px;"><img src="/typeStrategem.png" style="margin: unset;"/></span>
+<span style="display: inline-block;width: 22.00px; height: 20.00px;"><img src="/LIHKG-Gwent-guide/typeStrategem.png" style="margin: unset;"/></span>
 {{< /rawhtml >}} __戰術牌（Stratagem）__ 全部會佔位置。玩鋪場卡組時尤其要注意。
 
 __3. 如果你當回合未出牌，但用左場上既指令（Order）或領袖技能，咁你就必須打出一張牌。__
@@ -50,7 +50,7 @@ __6. 特別既卡牌效果介紹__
         <i style="font-size: x-small;" class="fas fa-chevron-right"> </i> <bold>Shupe's Day Off（店店的大冒險）</bold>
     </div>
     <div class="expand-content" style="display: none">
-        <pre><code class="hljs"><span style="display: inline-block;"><img src="/shupe.jpg" style="margin: unset;"/>If your starting deck has no duplicates, send Shupe on an adventure.<br/>若己方起始牌組沒有重複牌，則派“店店”去冒險。</span><br/><br/>實際效果：<br/><br/>如果玩家起始卡組（即卡組編輯器內的卡組構成，與使用此卡當下的卡組情況無關）內沒有重複卡，<br/><br/>玩家先從 <bold>法師（Mage）／獵人（Hunter）／騎士（Knight）</bold> 三者之中擇一。<br/><br/>系統從所選類型的五種效果中隨機選出三個效果。<br/><br/>玩家從三個效果中擇一，最後打出店店並觸發所選效果。<br/><br/>（註：長按卡片會彈出卡片效果介面，可從中找到效果一覽）</code><span style="display: inline-block;"><img src="/shupeDescription.png" style="margin: unset;"/></span><br/><br/><span class="copy-to-clipboard" title="Copy to clipboard"></span><br/></pre>
+        <pre><code class="hljs"><span style="display: inline-block;"><img src="/LIHKG-Gwent-guide/shupe.jpg" style="margin: unset;"/>If your starting deck has no duplicates, send Shupe on an adventure.<br/>若己方起始牌組沒有重複牌，則派“店店”去冒險。</span><br/><br/>實際效果：<br/><br/>如果玩家起始卡組（即卡組編輯器內的卡組構成，與使用此卡當下的卡組情況無關）內沒有重複卡，<br/><br/>玩家先從 <bold>法師（Mage）／獵人（Hunter）／騎士（Knight）</bold> 三者之中擇一。<br/><br/>系統從所選類型的五種效果中隨機選出三個效果。<br/><br/>玩家從三個效果中擇一，最後打出店店並觸發所選效果。<br/><br/>（註：長按卡片會彈出卡片效果介面，可從中找到效果一覽）</code><span style="display: inline-block;"><img src="/LIHKG-Gwent-guide/shupeDescription.png" style="margin: unset;"/></span><br/><br/><span class="copy-to-clipboard" title="Copy to clipboard"></span><br/></pre>
     </div>
 </div>
 {{< /rawhtml >}}
@@ -65,7 +65,7 @@ __6. 特別既卡牌效果介紹__
         <i style="font-size: x-small;" class="fas fa-chevron-right"></i> <bold>Knickers（褲襠）</bold>
     </div>
     <div class="expand-content" style="display: none">
-        <pre><code class="hljs"><span style="display: inline-block;"><img src="/knickers.jpg" style="margin: unset;"/>This unit may raid the battlefield to aid you in battle.<br/>它可能會沖入戰場，協助你戰鬥。</span><br/><br/>實際效果：<br/><br/>我方每回合結束時，如果此卡在卡組，則有一定機率從卡組召喚（Summon）至我方場上隨機一列。<br/><br/>（未被官方確認的）機率公式：100% - 10% * 我方手牌數。<br/><br/>（註：我方Pass後此卡仍然可以觸發效果）</code><span class="copy-to-clipboard" title="Copy to clipboard"></span></pre>
+        <pre><code class="hljs"><span style="display: inline-block;"><img src="/LIHKG-Gwent-guide/knickers.jpg" style="margin: unset;"/>This unit may raid the battlefield to aid you in battle.<br/>它可能會沖入戰場，協助你戰鬥。</span><br/><br/>實際效果：<br/><br/>我方每回合結束時，如果此卡在卡組，則有一定機率從卡組召喚（Summon）至我方場上隨機一列。<br/><br/>（未被官方確認的）機率公式：100% - 10% * 我方手牌數。<br/><br/>（註：我方Pass後此卡仍然可以觸發效果）</code><span class="copy-to-clipboard" title="Copy to clipboard"></span></pre>
     </div>
 </div>
 {{< /rawhtml >}}
@@ -75,19 +75,19 @@ __6. 特別既卡牌效果介紹__
 #### Q. 對面有9力以上既怪，點解我用傑洛特唔可以揀佢去殺？
 
 A. 99.999%係因為對面同一行既其他單位有{{< rawhtml >}}
-<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/statusDefender.png" style="margin: unset;"/></span>
+<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusDefender.png" style="margin: unset;"/></span>
 {{< /rawhtml >}}衛士（Defender）狀態。
 
 如果敵方某一行有{{< rawhtml >}}
-<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/statusDefender.png" style="margin: unset;"/></span>
+<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusDefender.png" style="margin: unset;"/></span>
 {{< /rawhtml >}}衛士單位，咁你任何既 __指定效果__ 都唔可以指定佢果一行既其他卡，只能指定佢。
 
 現時每個陣營都有一張衛士，新手要花少少時間認住佢地。
 
-{{< figure src="/defender.jpg">}}
+{{< figure src="/LIHKG-Gwent-guide/defender.jpg">}}
 
 用帶 __淨化（Purify）__ 效果既卡（如 Geralt: Axii, Pellar），可以 __移除__ {{< rawhtml >}}
-<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/statusDefender.png" style="margin: unset;"/></span>
+<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusDefender.png" style="margin: unset;"/></span>
 {{< /rawhtml >}}衛士狀態。
 
 留意唔同爐石，__昆特既鎖定（Lock）清唔到衛士狀態，必須用淨化__（或者直接將衛士摧毀）。
@@ -97,30 +97,30 @@ __淨化__ 會移除單位上既所有 __狀態（Status）__，正面或反面 
 |狀態|列表|
 |:---:|:---:|
 |正面|{{< rawhtml >}}
-<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/statusDefender.png" style="margin: unset;"/></span>
+<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusDefender.png" style="margin: unset;"/></span>
 {{< /rawhtml >}}[衛士（Defender）](https://teamleviathangaming.com/glossary/defender/)、{{< rawhtml >}}
-<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/statusImmunity.png" style="margin: unset;"/></span>
+<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusImmunity.png" style="margin: unset;"/></span>
 {{< /rawhtml >}}[免疫（Immunity）](https://teamleviathangaming.com/glossary/immunity/)、{{< rawhtml >}}
-<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/statusResilience.png" style="margin: unset;"/></span>
+<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusResilience.png" style="margin: unset;"/></span>
 {{< /rawhtml >}}[堅韌（Resilience）](https://teamleviathangaming.com/glossary/resilience/)、{{< rawhtml >}}
-<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/statusShield.png" style="margin: unset;"/></span>
+<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusShield.png" style="margin: unset;"/></span>
 {{< /rawhtml >}}[護盾（Shield）](https://teamleviathangaming.com/glossary/shield/)、{{< rawhtml >}}
-<span style="display: inline-block; width: 12.10px; height: 23.80px;"><img src="/statusVitality.png" style="margin: unset;"/></span>
+<span style="display: inline-block; width: 12.10px; height: 23.80px;"><img src="/LIHKG-Gwent-guide/statusVitality.png" style="margin: unset;"/></span>
 {{< /rawhtml >}}[活力（Vitality）](https://teamleviathangaming.com/glossary/vitality/)|
 |負面|{{< rawhtml >}}
-<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/statusPoison.png" style="margin: unset;"/></span>
+<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusPoison.png" style="margin: unset;"/></span>
 {{< /rawhtml >}}[中毒（Poison）](https://teamleviathangaming.com/glossary/poison/)、{{< rawhtml >}}
-<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/statusBounty.png" style="margin: unset;"/></span>
+<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusBounty.png" style="margin: unset;"/></span>
 {{< /rawhtml >}}[賞金（Bounty）](https://teamleviathangaming.com/glossary/bounty-status/)、{{< rawhtml >}}
-<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/statusLock.png" style="margin: unset;"/></span>
+<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusLock.png" style="margin: unset;"/></span>
 {{< /rawhtml >}}[鎖定（Lock）](https://teamleviathangaming.com/glossary/lock/)、{{< rawhtml >}}
-<span style="display: inline-block;width: 12.10px; height: 23.80px;"><img src="/statusBleeding.png" style="margin: unset;"/></span>
+<span style="display: inline-block;width: 12.10px; height: 23.80px;"><img src="/LIHKG-Gwent-guide/statusBleeding.png" style="margin: unset;"/></span>
 {{< /rawhtml >}}[重傷（Bleeding）](https://teamleviathangaming.com/glossary/bleeding-2/)、{{< rawhtml >}}
-<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/statusDoomed.png" style="margin: unset;"/></span>
+<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusDoomed.png" style="margin: unset;"/></span>
 {{< /rawhtml >}}[佚亡（Doomed）](https://teamleviathangaming.com/glossary/doomed/)、{{< rawhtml >}}
-<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/statusSpying.png" style="margin: unset;"/></span>
+<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusSpying.png" style="margin: unset;"/></span>
 {{< /rawhtml >}}[潛伏（Spying）](https://teamleviathangaming.com/glossary/spying/)、{{< rawhtml >}}
-<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/statusRupture.png" style="margin: unset;"/></span>
+<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusRupture.png" style="margin: unset;"/></span>
 {{< /rawhtml >}}[破裂（Rupture）](https://teamleviathangaming.com/glossary/rupture/)|
 
 &nbsp;
@@ -207,6 +207,6 @@ A. 昆特重視既係技術同對Meta既認識。
 
 活用自己優點，再針對敵方弱點，咁先打得上去。
 
-另外，__[睇高手打牌極有用](/others/#q-有咩實況主推薦)__，可以令你牌技快速進步。
+另外，__[睇高手打牌極有用](../others/#q-%u6709%u54A9%u5BE6%u6CC1%u4E3B%u63A8%u85A6)__，可以令你牌技快速進步。
 
-[（返回快速導覽）](../#快速導覽)
+[（返回快速導覽）](../#%u5FEB%u901F%u5C0E%u89BD)

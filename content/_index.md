@@ -4,11 +4,11 @@
 
 ##### 最後更新於2021年7月4日
 
-{{< figure src="/thumbnail.png">}}
+{{< figure src="/LIHKG-Gwent-guide/thumbnail.png">}}
 
 {{< rawhtml >}}
 <figure>
-    <img src="/meme.jpg" style="width: auto; height: auto;"/>
+    <img src="meme.jpg" style="width: auto; height: auto;"/>
     <figcaption>
         <h4>
             <a href="https://youtu.be/b72WUMluc-I">
@@ -27,18 +27,16 @@
 
 ### 快速導覽
 
-#### [常見問題](/faq/)
+#### [常見問題](faq/)
 
-#### [遊戲內資源相關](/resources/)
+#### [遊戲內資源相關](resources/)
 
-#### [砌卡組相關](/deckbuilding/)
+#### [砌卡組相關](deckbuilding/)
 
-#### [課金／單人模式相關](/premium)
+#### [課金／單人模式相關](premium)
 
-#### [遊戲玩法相關](/gameplay/)
+#### [遊戲玩法相關](gameplay/)
 
-#### [天梯／排位相關](/ladderranking/)
+#### [天梯／排位相關](ladderranking/)
 
-#### [其他](/others/)
-
-&nbsp;
+#### [其他](others/)

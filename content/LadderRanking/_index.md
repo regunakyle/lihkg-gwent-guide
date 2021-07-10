@@ -87,7 +87,7 @@ Pro Rank排名係睇你最高四個 __陣營分數（Faction MMR／fMMR）__ 既
 #### Q. 人均Rank幾？
 
 A. 梗係人均Pro Rank啦 {{< rawhtml >}}
-<img src="/yup.gif" style="display: inline-block; margin: unset;"/>
+<img src="/LIHKG-Gwent-guide/yup.gif" style="display: inline-block; margin: unset;"/>
 {{< /rawhtml >}}
 
 認真D講，因為賽季末跌Rank慢，上Pro Rank可以話只係時間問題。
@@ -96,4 +96,4 @@ A. 梗係人均Pro Rank啦 {{< rawhtml >}}
 
 有心玩但冇時間既人可以嘗試打上Rank 7，有 __連勝__ 加持既話應該好快上到。
 
-[（返回快速導覽）](../#快速導覽)
+[（返回快速導覽）](../#%u5FEB%u901F%u5C0E%u89BD)

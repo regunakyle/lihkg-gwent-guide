@@ -38,7 +38,7 @@ A. [Twitch昆特台](https://www.twitch.tv/directory/game/Gwent%3A%20The%20Witch
         <i style="font-size: x-small;" class="fas fa-chevron-right"></i><MO>（PC Only）</MO><bold>Twitch台改善觀看體驗</bold>
     </div>
     <div class="expand-content" style="display: none">
-        <pre><code class="hljs">安裝瀏覽器插件<a href="https://betterttv.com/" style="font-weight: bold; display: initial;">BetterTTV。</a><br/>安裝前：<br/><br/><span style="display: inline-block;"><img src="/bttvBefore.jpg" style="margin: unset;"/></span><br/>安裝後（留意聊天室多左大量Emote）：<br/><br/><span style="display: inline-block;"><img src="/bttvAfter.jpg" style="margin: unset;"/></span><br/>如果有Twitch帳號，登入後按右上角自己頭像會彈出一列野，入面可以搵到BTTV設定。<br/><br/>呢個唔止睇昆特有用：基本上外國既實況主全部都會用BetterTTV既Emote。</code><span class="copy-to-clipboard" title="Copy to clipboard"></span></pre>
+        <pre><code class="hljs">安裝瀏覽器插件<a href="https://betterttv.com/" style="font-weight: bold; display: initial;">BetterTTV。</a><br/>安裝前：<br/><br/><span style="display: inline-block;"><img src="/LIHKG-Gwent-guide/bttvBefore.jpg" style="margin: unset;"/></span><br/>安裝後（留意聊天室多左大量Emote）：<br/><br/><span style="display: inline-block;"><img src="/LIHKG-Gwent-guide/bttvAfter.jpg" style="margin: unset;"/></span><br/>如果有Twitch帳號，登入後按右上角自己頭像會彈出一列野，入面可以搵到BTTV設定。<br/><br/>呢個唔止睇昆特有用：基本上外國既實況主全部都會用BetterTTV既Emote。</code><span class="copy-to-clipboard" title="Copy to clipboard"></span></pre>
     </div>
 </div>
 
@@ -49,21 +49,21 @@ A. [Twitch昆特台](https://www.twitch.tv/directory/game/Gwent%3A%20The%20Witch
 #### Q. 有冇觀戰模式？
 
 A. __冇__。出左四年以上既遊戲到而家都未有觀戰{{< rawhtml >}}
-<img src="/sosad.gif" style="display: inline-block; margin: unset;"/>
+<img src="/LIHKG-Gwent-guide/sosad.gif" style="display: inline-block; margin: unset;"/>
 {{< /rawhtml >}}
 
 而家有[錦標賽模式](https://tournaments.playgwent.com/about)，可以係遊戲內搞比賽+觀戰。
 
 好友觀戰就貌似要等到 ~~2021~~ 2077年。
 
-{{< figure src="/2077.jpg" title="Remember me?">}}
+{{< figure src="/LIHKG-Gwent-guide/2077.jpg" title="Remember me?">}}
 
 &nbsp;
 
 #### Q. 邊到搵客服？
 
 A. [呢到](https://support.cdprojektred.com/en/gwent/pc)。英文唔得既話可以上連登求助 {{< rawhtml >}}
-<img src="/sosad.gif" style="display: inline-block; margin: unset;"/>
+<img src="/LIHKG-Gwent-guide/sosad.gif" style="display: inline-block; margin: unset;"/>
 {{< /rawhtml >}}
 
 又或者寫英文電郵去[pc_gwent@cdprojektred.com](mailto:pc_gwent@cdprojektred.com)。 
@@ -80,7 +80,7 @@ A. 卡牌遊戲呢家野本身已經屬小眾，昆特仲要係比較硬核果�
 
 宜家昆特已經穩定落黎，出左手機版之後多左好多新玩家。希望昆特愈做愈好啦。
 
-[（返回快速導覽）](../#快速導覽)
+[（返回快速導覽）](../#%u5FEB%u901F%u5C0E%u89BD)
 
 &nbsp;
 

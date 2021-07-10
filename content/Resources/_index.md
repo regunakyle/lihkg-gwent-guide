@@ -10,7 +10,7 @@ A. 資源分四種（下圖左至右）：
 
 獎勵點（Reward Point）、礦石（Ore）、碎片（Scrap）、星塵（Meteorite Powder）。
 
-{{< figure src="/resources.png">}}
+{{< figure src="/LIHKG-Gwent-guide/resources.png">}}
 
 獎勵點用黎開獎勵冊（Reward Book）；礦石用黎買桶；碎片用黎合卡；星塵用黎整閃卡／買飾品。
 
@@ -61,7 +61,7 @@ __4.日常任務__
 每日登入都會比一個任務，同一時間最多有三個任務。
 
 可以按右上角{{< rawhtml >}}
-<span style="display: inline-block;width: 21.67px; height: 20.00px;"><img src="/reload.png" style="margin: unset;"/></span>
+<span style="display: inline-block;width: 21.67px; height: 20.00px;"><img src="/LIHKG-Gwent-guide/reload.png" style="margin: unset;"/></span>
 {{< /rawhtml >}}換任務，每日可換一次（聲望等級2或以上可換兩次）
 
 __5.完成委託（Contract）__
@@ -72,14 +72,14 @@ __5.完成委託（Contract）__
 
 __6.賽季末獎勵__
 
-請參閱[天梯排位Section](/ladderranking/#一個賽季結束後所有-__打過至少一場rank__-既玩家都會獲得獎勵點)。
+請參閱[天梯排位Section](../ladderranking/#一個賽季結束後所有-__打過至少一場rank__-既玩家都會獲得獎勵點)。
 
 &nbsp;
 
 #### Q. 新手點樣用獎勵點（Reward Point）最好？
 
 __A. 先揀一個獎勵樹，然後以最短路徑開曬入面既{{< rawhtml >}}
-<span style="display: inline-block;width: 41.54px; height: 38.50px;"><img src="/scroll.png" style="margin: unset;"/></span>
+<span style="display: inline-block;width: 41.54px; height: 38.50px;"><img src="/LIHKG-Gwent-guide/scroll.png" style="margin: unset;"/></span>
 {{< /rawhtml >}}劇情節點（Story Node）。__
 
 __同一個獎勵樹內，開得愈多劇情節點就愈多礦石（開第4個直接比500礦!），CP值最高。__
@@ -128,4 +128,4 @@ A. 每次升到60級後，再升多1級就會將你重設為等級1，並提升1
 
 要睇佢等級數字背後既旗幟係咩樣先判斷到佢實際等級。
 
-[（返回快速導覽）](../#快速導覽)
+[（返回快速導覽）](../#%u5FEB%u901F%u5C0E%u89BD)
