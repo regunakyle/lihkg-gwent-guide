@@ -86,13 +86,13 @@ A. 卡牌遊戲呢家野本身已經屬小眾，昆特仲要係比較硬核果�
 
 #### 其他相關網站：
 
+__[Discord：台灣昆特牌討論群組](https://discord.gg/QZBDB8n)__
+
 [Youtube：The Great Dandelion Show （搞笑時刻集錦）](https://www.youtube.com/channel/UCjkcfCDhJlzw_jazRjkAaTQ)
 
 [Reddit：r/Gwent](https://www.reddit.com/r/gwent/)
 
 [Twitter：@PlayGwent](https://twitter.com/PlayGwent)
-
-[Discord：台灣昆特牌討論群組](https://discord.gg/QZBDB8n)
 
 [巴哈姆特：巫師 The Witcher 系列 哈拉板](https://forum.gamer.com.tw/B.php?bsn=7364)
 

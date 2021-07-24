@@ -2,7 +2,7 @@ baseURL = "https://regunakyle.github.io/LIHKG-Gwent-guide/"
 languageCode = "zh-HK"
 title = "LIHKG Gwent Guide"
 
-theme = "hugo-theme-learn"
+theme = "hugo-theme-relearn"
 
 publishDir = "docs"
 

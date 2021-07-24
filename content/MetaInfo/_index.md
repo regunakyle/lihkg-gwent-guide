@@ -11,7 +11,7 @@ weight = 8
 
 #### 鳴謝：
 
-本指南使用[Hugo](https://github.com/gohugoio/hugo)寫成，並使用了[Hugo Learn Theme](https://github.com/matcornic/hugo-theme-learn)作基底。
+本指南使用[Hugo](https://github.com/gohugoio/hugo)寫成，並使用了[Hugo Relearn Theme](https://github.com/McShelby/hugo-theme-relearn)作基底。
 
 &nbsp;
 
