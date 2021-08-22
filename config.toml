@@ -16,8 +16,8 @@ publishDir = "docs"
     disableSearch = true
 
 [[menu.shortcuts]] 
-name = "<i class='fa fa-comments'></i> 最新LIHKG貼文（15）"
-url = "https://lih.kg/2449224"
+name = "<i class='fa fa-comments'></i> 最新LIHKG貼文（16）"
+url = "https://lih.kg/2669684"
 weight = 20
 
 #todo
