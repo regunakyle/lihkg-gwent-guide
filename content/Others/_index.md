@@ -14,8 +14,6 @@ A. [Twitch昆特台](https://www.twitch.tv/directory/game/Gwent%3A%20The%20Witch
 
 [Spyro_ZA](https://www.twitch.tv/spyro_za/)（開台時間穩定，Pro Rank排前頭，有整[Youtube](https://www.youtube.com/channel/UCL3pNEgCMctHbqHHr2Ceq3A)教學片）
 
-[Trynet123](https://www.twitch.tv/trynet123)（開台時間穩定，[Youtube](https://www.youtube.com/user/trynet123/featured)有各類卡組Gameplay，R1守門員。抄佢卡組要謹慎）
-
 [Shinmiri2](https://www.twitch.tv/shinmiri2/)（燒繩怪，會詳細解釋打牌思路）
 
 [TheaBeasty](https://www.twitch.tv/theabeasty)（{{< rawhtml >}}<MO>（ ͡° ͜ʖ ͡°）</MO>{{< /rawhtml >}}）
