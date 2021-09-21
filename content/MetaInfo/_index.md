@@ -5,7 +5,7 @@ weight = 8
 
 ## 感謝你閱讀本指南！
 
-如果你發現任何錯處或想提出建議，請往Github創建[Issue](https://github.com/regunakyle/LIHKG-Gwent-guide/issues)。
+如果你發現任何錯處或想提出建議，請往 Github 創建[Issue](https://github.com/regunakyle/LIHKG-Gwent-guide/issues)。
 
 &nbsp;
 
@@ -19,18 +19,18 @@ weight = 8
 
 本指南遵循[「署名-相同方式共享 4.0 國際」](https://choosealicense.com/licenses/cc-by-sa-4.0/)協議。
 
-__轉載請註明出處。__
+**轉載請註明出處。**
 
 &nbsp;
 
 #### Version History
 
-|Version|Date|Comment|
-|:---:|:---:|:---:|
-|2.0|10 Jul 2021|Migrated the guide from Google Doc to Github Page|
-|1.5|4 Apr 2020|Contented edited with respect to Journey expansion|
-|1.4|7 Jan 2020|Ongoing event section added|
-|1.3|9 Dec 2019|Content edited with respect to Merchants of Ofir expansion|
-|1.2|4 Dec 2019|Content edited according to 2020 roadmap & Changed most English wording to Chinese|
-|1.1|27 Nov 2019|Quick navigation added & Content edited|
-|1.0|18 Nov 2019|First Commit|
+| Version |    Date     |                                      Comment                                       |
+| :-----: | :---------: | :--------------------------------------------------------------------------------: |
+|   2.0   | 10 Jul 2021 |                 Migrated the guide from Google Doc to Github Page                  |
+|   1.5   | 4 Apr 2020  |                 Contented edited with respect to Journey expansion                 |
+|   1.4   | 7 Jan 2020  |                            Ongoing event section added                             |
+|   1.3   | 9 Dec 2019  |             Content edited with respect to Merchants of Ofir expansion             |
+|   1.2   | 4 Dec 2019  | Content edited according to 2020 roadmap & Changed most English wording to Chinese |
+|   1.1   | 27 Nov 2019 |                      Quick navigation added & Content edited                       |
+|   1.0   | 18 Nov 2019 |                                    First Commit                                    |

@@ -8,43 +8,43 @@ pre = "<b>1. </b>"
 
 A. 昆特既特別之處有：
 
-__1. 福利極多：新手唔洗課金都可以玩得好開心。__
+**1. 福利極多：新手唔洗課金都可以玩得好開心。**
 
-CDPR係出左名既佛心；昆特牌係市面上福利數一數二最多既電子卡牌遊戲。
+CDPR 係出左名既佛心；昆特牌係市面上福利數一數二最多既電子卡牌遊戲。
 
 零課玩家如果認真玩，一個月內絕對可以砌到一副主流卡組。
 
-__2. 昆特冇費用系統，而且唔係每回合開始抽牌。__
+**2. 昆特冇費用系統，而且唔係每回合開始抽牌。**
 
-昆特唔係又一隻爐石或MTGA複製品，玩法獨特既同時又不失其深度。
+昆特唔係又一隻爐石或 MTGA 複製品，玩法獨特既同時又不失其深度。
 
 昆特唔會出現因為唔夠費而有牌打唔出，又或者大優勢時比對手神抽逆轉既情況。
 
 因為冇得每回合補牌，所以每小局開始就要運籌帷幄，技術要求（及回報）較高。
 
-__3. 卡畫質素係所有電子卡牌遊戲既頂峰。__
+**3. 卡畫質素係所有電子卡牌遊戲既頂峰。**
 
-CDPR做美術最比心機，睇下昆特既[廣告](https://youtu.be/spcsH14-U9E)就知。（仲有[Arena廣告](https://youtu.be/HuTymdxW_9s)同[Beta版告](https://youtu.be/5yu7FVZOyAo)，值得一睇）
+CDPR 做美術最比心機，睇下昆特既[廣告](https://youtu.be/spcsH14-U9E)就知。（仲有[Arena 廣告](https://youtu.be/HuTymdxW_9s)同[Beta 廣告](https://youtu.be/5yu7FVZOyAo)，值得一睇）
 
 昆特卡畫超高質，而且每一張卡都有動畫版，有聲有畫面，應該係業界第一。
 
-__4. 昆特未有退環境，所以唔洗驚D卡以後唔用得。__
+**4. 昆特未有退環境，所以唔洗驚啲卡以後唔用得。**
 
-昆特總監Jason Slama講左2020年內唔會有退環境，之後亦會盡力避免。
+昆特總監 Jason Slama 講左 2020 年內唔會有退環境，之後亦會盡力避免。
 
-而家卡池尚淺，CDPR太約每半年就會出一個擴展包。
+而家卡池尚淺，CDPR 太約每半年就會出一個擴展包。
 
 &nbsp;
 
 #### Q. 新手應該玩咩模式？
 
-A.  __新手要直接打Ranked（即標準／Standard）__。
+A. **新手要直接打 Ranked（即標準／Standard）**。
 
-標準模式多人玩，而且 __較易搵到同你水平相近既對手__。
+標準模式多人玩，而且 **較易搵到同你水平相近既對手**。
 
-__賽季活動（Seasonal Event）__  係歡樂模式，類似爐石大亂鬥，都幾多人玩，想做任可以呢到做。
+**賽季活動（Seasonal Event）** 係歡樂模式，類似爐石大亂鬥，都幾多人玩，想做任可以呢到做。
 
-另外仲有個 __非排位（Unranked）__ 模式。要去訓練（Training）模式揀對陣玩家（Versus Player）先入到。
+另外仲有個 **非排位（Unranked）** 模式。要去訓練（Training）模式揀對陣玩家（Versus Player）先入到。
 
 唔推薦新手玩呢個，因為呢個模式少人玩，又多牛鬼蛇神（有機會撞到職業玩家 {{< rawhtml >}}
 <img src="/LIHKG-Gwent-guide/sosad.gif" style="display: inline-block; margin: unset;"/>
@@ -52,9 +52,10 @@ __賽季活動（Seasonal Event）__  係歡樂模式，類似爐石大亂鬥，
 
 &nbsp;
 
-#### Q. 新手玩咩陣營好？  
+#### Q. 新手玩咩陣營好？
 
 {{< rawhtml >}}
+
 <h5 id="q-陣營">
     A. 陣營有六個：
     <br/><br/>
@@ -85,24 +86,26 @@ __賽季活動（Seasonal Event）__  係歡樂模式，類似爐石大亂鬥，
 
 #### Q. 洗唔洗刷首抽？
 
-A. __唔洗__。昆特冇一張卡係勁到贏在起跑線既程度。
+A. **唔洗**。昆特冇一張卡係勁到贏在起跑線既程度。
 
-其他手機遊戲就話抽到靚野先開局，但昆特係PVP遊戲，非常講平衡性，所以好少有OP卡。
+其他手機遊戲就話抽到靚野先開局，但昆特係 PVP 遊戲，非常講平衡性，所以好少有 OP 卡。
 
 而且昆特既獎勵多，玩多幾日就有唔少資源。與其浪費時間刷首抽，不如直接加入。
 
 &nbsp;
 
-#### __Q. 我想抄卡組!__
+#### **Q. 我想抄卡組！**
 
-__A. 請直接飛去[砌卡組Section](../deckbuilding/)。__
+**A. 請直接飛去[砌卡組 Section](../deckbuilding/)。**
 
 &nbsp;
 
 #### Q. 新手買咩卡桶好？
+
 A. 如果已經決定好要專注某一個陣營既話，就全力買陣營桶。
 
 {{< rawhtml >}}
+
 <div class="expand">
     <div
         class="expand-label"
@@ -119,13 +122,13 @@ A. 如果已經決定好要專注某一個陣營既話，就全力買陣營桶�
 
 如果未決定專注既陣營，就開住終極（Ultimate）桶先。
 
-如果想課金，請睇[課金Section](../paidcontent/)。
+如果想課金，請睇[課金 Section](../paidcontent/)。
 
 &nbsp;
 
 #### Q. 卡桶三揀一抽中金卡，揀邊張好？
 
-A. 可以上連登Post問。（淨係問金卡好喇，銅卡自己揀）
+A. 可以上連登 Post 問。（淨係問金卡好喇，銅卡自己揀）
 
 Rule of thumb：有閃卡就揀閃卡 {{< rawhtml >}}
 <img src="/LIHKG-Gwent-guide/yup.gif" style="display: inline-block; margin: unset;"/>
@@ -133,19 +136,20 @@ Rule of thumb：有閃卡就揀閃卡 {{< rawhtml >}}
 
 &nbsp;
 
-#### Q. 昆特有冇PC版？
+#### Q. 昆特有冇 PC 版？
 
 A. 有：可以去[Steam](https://store.steampowered.com/app/1284410/)或[GOG](https://www.gog.com/game/gwent_the_witcher_card_game)下載。
 
-無論用邊個平台，你都係要先註冊一個GOG帳號先玩到。
+無論用邊個平台，你都係要先註冊一個 GOG 帳號先玩到。
 
 {{< rawhtml >}}
-<MO>PC版(Steam/GOG)同手機版(iOS/Android)可以共用同一個GOG帳號.</MO>
+<MO>PC 版(Steam/GOG)同手機版(iOS/Android)可以共用同一個 GOG 帳號.</MO>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
 <br />
 <br />
+
 <div class="expand">
     <div
         class="expand-label"
@@ -164,7 +168,7 @@ A. 有：可以去[Steam](https://store.steampowered.com/app/1284410/)或[GOG](h
 
 #### Q. 昆特有冇中文？
 
-A. 有，__但只有簡體中文__，設定入面搵。
+A. 有，**但只有簡體中文**，設定入面搵。
 
 留意中文翻譯可能有唔準確既地方，一切以英文版為準。
 
@@ -174,6 +178,6 @@ A. 有，__但只有簡體中文__，設定入面搵。
 
 A. 可以。
 
-*In order to change the username, please access the ACCOUNT & LOCALE section in GOG GALAXY 2.0 or [in a browser](https://www.gog.com/account/settings/personal) and click the CHANGE button next to your avatar.*
+_In order to change the username, please access the ACCOUNT & LOCALE section in GOG GALAXY 2.0 or [in a browser](https://www.gog.com/account/settings/personal) and click the CHANGE button next to your avatar._
 
 [（返回快速導覽）](../#quicknav)
