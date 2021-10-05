@@ -22,7 +22,7 @@
 
 下載連結: **[iOS](https://apps.apple.com/hk/app/gwent-the-witcher-card-game/id1466943149)**/**[Android](https://play.google.com/store/apps/details?id=com.cdprojektred.gwent)**
 
-**[領取免費卡桶及 Witcher 1](https://www.gog.com/gwent-welcome-bonus)**
+**[GOG: 領取免費卡桶及 The Witcher: Enhanced Edition](https://www.gog.com/gwent-welcome-bonus)**
 
 {{< rawhtml >}}
 <a id="quicknav"></a>

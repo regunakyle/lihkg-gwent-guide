@@ -49,7 +49,7 @@ A. Thronebreaker 既回報係：
 
 56 獎勵點最少都可以換約 2800 礦。如果運用得當可賺更多。
 
-因為有 **[全成就存檔](#q-唔想玩冇時間玩thronebreaker但又想要獎勵點算)** 呢招密技，所以買 Thronebreaker 係全昆特性價比最高既課金項目。
+因為有 **[全成就存檔](#q-唔想玩冇時間玩-thronebreaker但又想要獎勵點算)** 呢招密技，所以買 Thronebreaker 係全昆特性價比最高既課金項目。
 
 只需用半日時間就可以攞到差唔多所有獎勵，價格又唔太貴，非常抵買。
 
@@ -81,7 +81,7 @@ A. 可以使用全成就存檔。 **再提一次：手機版冇得用存檔大�
 
 （以下資訊出自[MYGLIVE@Bilibili](https://space.bilibili.com/8831988)）
 
-先下載左[呢個檔](https://github.com/regunakyle/LIHKG-Gwent-guide/raw/master/content/paidcontent/_index.files/%E7%8E%8B%E6%AC%8A%E7%9A%84%E9%9A%95%E8%90%BD%E5%85%A8%E6%88%90%E5%B0%B1%E8%A3%9C%E5%85%85%E5%9C%96%E6%96%872.2.zip)先。解壓縮後開番入面個文檔，再跟住入面既步驟做就得。
+先下載左[呢個檔](https://github.com/regunakyle/LIHKG-Gwent-guide/releases/tag/v1.0)先。解壓縮後開番入面個文檔，再跟住入面既步驟做就得。
 
 佢文檔開頭有兩條片既連結，可以開黎睇下佢點做。
 
