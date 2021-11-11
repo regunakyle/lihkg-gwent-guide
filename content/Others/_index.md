@@ -16,7 +16,7 @@ A. [Twitch 昆特台](https://www.twitch.tv/directory/game/Gwent%3A%20The%20Witc
 
 [Shinmiri2](https://www.twitch.tv/shinmiri2/)（燒繩怪，會詳細解釋打牌思路）
 
-[TheaBeasty](https://www.twitch.tv/theabeasty)（{{< rawhtml >}}<MO>（ ͡° ͜ʖ ͡°）</MO>{{< /rawhtml >}}）
+[TheaBeasty](https://www.twitch.tv/theabeasty)（{{<class name="MO" text="（ ͡° ͜ʖ ͡°）">}}）
 
 大陸：
 
@@ -26,44 +26,36 @@ A. [Twitch 昆特台](https://www.twitch.tv/directory/game/Gwent%3A%20The%20Witc
 
 當然仲有好多其他實況主未被列出，要靠你自己去搵岩你既台。
 
-{{< rawhtml >}}
-
-<div class="expand">
-    <div
-        class="expand-label"
-        style="cursor: pointer;"
-        onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});"
-    >
-        <i style="font-size: x-small;" class="fas fa-chevron-right"></i><MO>（PC Only）</MO><bold>Twitch台改善觀看體驗</bold>
-    </div>
-    <div class="expand-content" style="display: none">
-        <pre><code class="hljs">安裝瀏覽器插件<a href="https://betterttv.com/" style="font-weight: bold; display: initial;">BetterTTV。</a><br/>安裝前：<br/><br/><span style="display: inline-block;"><img src="/LIHKG-Gwent-guide/bttvBefore.jpg" style="margin: unset;"/></span><br/>安裝後（留意聊天室多左大量Emote）：<br/><br/><span style="display: inline-block;"><img src="/LIHKG-Gwent-guide/bttvAfter.jpg" style="margin: unset;"/></span><br/>如果有Twitch帳號，登入後按右上角自己頭像會彈出一列野，入面可以搵到BTTV設定。<br/><br/>呢個唔止睇昆特有用：基本上外國既實況主全部都會用BetterTTV既Emote。</code><span class="copy-to-clipboard" title="Copy to clipboard"></span></pre>
-    </div>
-</div>
-
-{{< /rawhtml >}}
+{{<expand2 title="（PC Only）Twitch台改善觀看體驗">}}
+安裝瀏覽器插件<a href="https://betterttv.com/" style="font-weight: bold; display: initial;">BetterTTV。</a>
+安裝前：
+<br/>
+{{<img width=auto height=auto src="/LIHKG-Gwent-guide/bttvBefore.jpg" style="margin: unset;">}}
+安裝後（留意聊天室多咗大量 Emote）：
+<br/>
+{{<img width=auto height=auto src="/LIHKG-Gwent-guide/bttvAfter.jpg" style="margin: unset;">}}
+如果有 Twitch 帳號，登入後撳右上角自己頭像會彈出一列野，入面可以搵到 BTTV 設定。
+<br/>
+呢個唔止睇昆特有用：基本上外國既實況主全部都會用 BetterTTV 既 Emote。
+{{</expand2>}}
 
 &nbsp;
 
 #### Q. 有冇觀戰模式？
 
-A. **冇**。出左四年以上既遊戲到而家都未有觀戰{{< rawhtml >}}
-<img src="/LIHKG-Gwent-guide/sosad.gif" style="display: inline-block; margin: unset;"/>
-{{< /rawhtml >}}
+A. **冇**。出咗五年以上既遊戲到而家都未有觀戰{{<gif src="/LIHKG-Gwent-guide/sosad.gif">}}
 
 而家有[錦標賽模式](https://tournaments.playgwent.com/about)，可以係遊戲內搞比賽+觀戰。
 
 好友觀戰就貌似要等到 ~~2021~~ 2077 年。
 
-{{< figure src="/LIHKG-Gwent-guide/2077.jpg" title="Remember me?">}}
+{{<figure src="/LIHKG-Gwent-guide/2077.jpg" attr="Remember me?">}}
 
 &nbsp;
 
 #### Q. 邊到搵客服？
 
-A. [呢到](https://support.cdprojektred.com/en/gwent/pc)。英文唔得既話可以上連登求助 {{< rawhtml >}}
-<img src="/LIHKG-Gwent-guide/sosad.gif" style="display: inline-block; margin: unset;"/>
-{{< /rawhtml >}}
+A. [呢到](https://support.cdprojektred.com/en/gwent/pc)。英文唔得既話可以上連登求助 {{<gif src="/LIHKG-Gwent-guide/sosad.gif">}}
 
 又或者寫英文電郵去[pc_gwent@cdprojektred.com](mailto:pc_gwent@cdprojektred.com)。
 
@@ -75,15 +67,15 @@ A. 卡牌遊戲呢家野本身已經屬小眾，昆特仲要係比較硬核果�
 
 其實昆特都曾經輝煌過，重製前 Twitch 昆特台每日最高同時觀眾數可以有 2000 人以上。
 
-可惜因為各種各樣既事（[Midwinter](https://youtu.be/pUyVbMKotUY)／[Homecoming](https://tieba.baidu.com/p/6330985924)／[Artifact](https://store.steampowered.com/app/583950/Artifact/)），令唔少實況主同玩家退左坑。
+可惜因為各種各樣既事（[Midwinter](https://youtu.be/pUyVbMKotUY)／[Homecoming](https://tieba.baidu.com/p/6330985924)／[Artifact](https://store.steampowered.com/app/583950/Artifact/)），令唔少實況主同玩家退咗坑。
 
-宜家昆特已經穩定落黎，出左手機版之後多左好多新玩家。希望昆特愈做愈好啦。
+宜家昆特已經穩定落黎，出咗手機版之後多咗好多新玩家。希望昆特愈做愈好啦。
 
 [（返回快速導覽）](../#quicknav)
 
 &nbsp;
 
-#### 其他相關網站：
+#### 其他相關網站
 
 **[Discord：台灣昆特牌討論群組](https://discord.gg/QZBDB8n)**
 

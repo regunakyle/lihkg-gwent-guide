@@ -5,11 +5,11 @@ weight = 8
 
 ## 感謝你閱讀本指南！
 
-如果你發現任何錯處或想提出建議，請往 Github 創建[Issue](https://github.com/regunakyle/LIHKG-Gwent-guide/issues)。
+如果你發現任何錯處或想提出建議，請往 Github 創建[Issue](https://github.com/regunakyle/LIHKG-Gwent-guide/issues)，或直接於最新 LIHKG 昆特貼文聯絡本人。
 
 &nbsp;
 
-#### 鳴謝：
+#### 鳴謝
 
 本指南使用[Hugo](https://github.com/gohugoio/hugo)寫成，並使用了[Hugo Relearn Theme](https://github.com/McShelby/hugo-theme-relearn)作基底。
 
@@ -27,6 +27,7 @@ weight = 8
 
 | Version |    Date     |                                      Comment                                       |
 | :-----: | :---------: | :--------------------------------------------------------------------------------: |
+|   2.1   | 11 Nov 2021 |                Added Umami analytics & Change theme to Hugo Relearn                |
 |   2.0   | 10 Jul 2021 |                 Migrated the guide from Google Doc to Github Page                  |
 |   1.5   | 4 Apr 2020  |                 Contented edited with respect to Journey expansion                 |
 |   1.4   | 7 Jan 2020  |                            Ongoing event section added                             |

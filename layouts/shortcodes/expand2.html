@@ -1,0 +1,12 @@
+<div class="expand">
+  <a
+    class="expand-label highlight"
+    onclick="$t=$(this); if($t.parent('.expand-expanded.expand-marked').length){ $t.next().css('display','none') }else if($t.parent('.expand-marked').length){ $t.next().css('display','block') }else{ $t.next('.expand-content').slideToggle(100); } $t.parent().toggleClass('expand-expanded');"
+  >
+    <i class="fas fa-chevron-down"></i>
+    <i class="fas fa-chevron-right"></i>{{.Get "title"}}
+  </a>
+  <div class="expand-content" style="display: none">
+    <pre><code class="hljs">{{.Inner}}</code><span class="copy-to-clipboard" title="Copy to clipboard"></span></pre>
+  </div>
+</div>

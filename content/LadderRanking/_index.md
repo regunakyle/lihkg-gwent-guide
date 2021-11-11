@@ -40,11 +40,11 @@ pre = "<b>6. </b>"
 
 #### **Q. 點解 Rank 1 上唔到去 Rank 0？**
 
-**A. 要先去設定同意左職業天梯條例（Pro Rank Regulations）先。**
+**A. 要先去設定同意咗職業天梯條例（Pro Rank Regulations）先。**
 
-**就黎上 Rank 0 既時候建議檢查多次，肯定自己同意左先再去爬分。**
+**就黎上 Rank 0 既時候建議檢查多次，肯定自己同意咗先再去爬分。**
 
-**重要提示：同意左之後記得按應用設置（Apply Setting）。**
+**重要提示：同意咗之後記得撳應用設置（Apply Setting）。**
 
 &nbsp;
 
@@ -88,9 +88,7 @@ Pro Rank 排名係睇你最高四個 **陣營分數（Faction MMR／fMMR）** �
 
 #### Q. 人均 Rank 幾？
 
-A. 梗係人均 Pro Rank 啦 {{< rawhtml >}}
-<img src="/LIHKG-Gwent-guide/yup.gif" style="display: inline-block; margin: unset;"/>
-{{< /rawhtml >}}
+A. 梗係人均 Pro Rank 啦 {{<gif src="/LIHKG-Gwent-guide/yup.gif">}}
 
 認真啲講，因為賽季末跌 Rank 慢，上 Pro Rank 可以話只係時間問題。
 

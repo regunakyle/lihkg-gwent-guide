@@ -10,125 +10,101 @@ pre = "<b>5. </b>"
 
 A. 有好多，諗到乜講乜：
 
-**1. 遊戲時，可以按右下自己卡組睇入面仲有咩卡。**
+**1. 遊戲時，可以撳右下自己卡組睇入面仲有咩卡。**
 
 要留意卡組係 **唔按順序** 展示出黎。
 
 **2. 每行最多放 9 張卡。**
 
-單位／{{< rawhtml >}}
-<span style="display: inline-block;width: 20px; height: 26.58px;"><img src="/LIHKG-Gwent-guide/typeArtifact.png" style="margin: unset;"/></span>
-{{< /rawhtml >}}神器／ **先手** {{< rawhtml >}}
-<span style="display: inline-block;width: 22.00px; height: 20.00px;"><img src="/LIHKG-Gwent-guide/typeStrategem.png" style="margin: unset;"/></span>
-{{< /rawhtml >}} **戰術牌（Stratagem）** 全部會佔位置。玩鋪場卡組時尤其要注意。
+單位／{{<img width=20px height=26.58px src="/LIHKG-Gwent-guide/typeArtifact.png">}}神器／ **先手** {{<img width=22.00px height=20.00px src="/LIHKG-Gwent-guide/typeStrategem.png">}} **戰術牌（Stratagem）** 全部會佔位置。玩鋪場卡組時尤其要注意。
 
-**3. 如果你當回合未出牌，但用左場上既指令（Order）或領袖技能，咁你就必須打出一張牌。**
+**3. 如果你當回合未出牌，但用咗場上既指令（Order）或領袖技能，咁你就必須打出一張牌。**
 
 所以用指令（Order）／領袖技能／先手戰術牌（Stratagem）之前要諗清楚。
 
-一用左就冇得 Pass，必須出牌。
+一用咗就冇得 Pass，必須出牌。
 
 **4. 可以主動將手牌放入墓地（唔會觸發棄牌效果）。**
 
-咁做當你出左牌，可以結束回合。呢招有時有決定性作用。
+咁做當你出咗牌，可以結束回合。呢招有時有決定性作用。
 
 另外，如果你燒完繩都未出牌，系統就會隨機丟棄你一張手牌。
 
 **5. 平局下雙方各加一小勝。**
 
-所以如果你輸左 R1，R2 再平局，你就會輸（二比一）。
+所以如果你輸咗 R1，R2 再平局，你就會輸（二比一）。
 
 **6. 特別既卡牌效果介紹**
 
-{{< rawhtml >}}
+{{<expand2 title="Shupe's Day Off（店店的大冒險）">}}
+{{<img width=auto height=auto src="/LIHKG-Gwent-guide/shupe.jpg">}}
+<span style="font-style: italic;">If your starting deck has no duplicates, send Shupe on an adventure.</span>
+<br/>
+<span style="font-style: italic;">若己方起始牌組沒有重複牌，則派“店店”去冒險。</span>
+<br/>
+<br/>
+實際效果：
+<br/>
+如果玩家起始卡組（即卡組編輯器內的卡組構成，與使用此卡當下的卡組情況無關）內沒有重複卡，
+<br/>
+玩家先從 <bold>法師（Mage）／獵人（Hunter）／騎士（Knight）</bold> 三者之中擇一。
+<br/>
+系統從所選類型的五種效果中隨機選出三個效果。
+<br/>
+玩家從三個效果中擇一，最後打出店店並觸發所選效果。
+<br/>
+（註：長按卡片會彈出卡片效果介面，可從中找到效果一覽）
+{{<img width=auto height=auto src="/LIHKG-Gwent-guide/shupeDescription.png">}}
+{{</expand2>}}
 
-<div class="expand">
-    <div
-        class="expand-label"
-        style="cursor: pointer;"
-        onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});"
-    >
-        <i style="font-size: x-small;" class="fas fa-chevron-right"> </i> <bold>Shupe's Day Off（店店的大冒險）</bold>
-    </div>
-    <div class="expand-content" style="display: none">
-        <pre><code class="hljs"><span style="display: inline-block;"><img src="/LIHKG-Gwent-guide/shupe.jpg" style="margin: unset;"/>If your starting deck has no duplicates, send Shupe on an adventure.<br/>若己方起始牌組沒有重複牌，則派“店店”去冒險。</span><br/><br/>實際效果：<br/><br/>如果玩家起始卡組（即卡組編輯器內的卡組構成，與使用此卡當下的卡組情況無關）內沒有重複卡，<br/><br/>玩家先從 <bold>法師（Mage）／獵人（Hunter）／騎士（Knight）</bold> 三者之中擇一。<br/><br/>系統從所選類型的五種效果中隨機選出三個效果。<br/><br/>玩家從三個效果中擇一，最後打出店店並觸發所選效果。<br/><br/>（註：長按卡片會彈出卡片效果介面，可從中找到效果一覽）</code><span style="display: inline-block;"><img src="/LIHKG-Gwent-guide/shupeDescription.png" style="margin: unset;"/></span><br/><br/><span class="copy-to-clipboard" title="Copy to clipboard"></span><br/></pre>
-    </div>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-
-<div class="expand">
-    <div
-        class="expand-label"
-        style="cursor: pointer;"
-        onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});"
-    >
-        <i style="font-size: x-small;" class="fas fa-chevron-right"></i> <bold>Knickers（褲襠）</bold>
-    </div>
-    <div class="expand-content" style="display: none">
-        <pre><code class="hljs"><span style="display: inline-block;"><img src="/LIHKG-Gwent-guide/knickers.jpg" style="margin: unset;"/>This unit may raid the battlefield to aid you in battle.<br/>它可能會沖入戰場，協助你戰鬥。</span><br/><br/>實際效果：<br/><br/>我方每回合結束時，如果此卡在卡組，則有一定機率從卡組召喚（Summon）至我方場上隨機一列。<br/><br/>（未被官方確認的）機率公式：100% - 10% * 我方手牌數。<br/><br/>（註：我方Pass後此卡仍然可以觸發效果）</code><span class="copy-to-clipboard" title="Copy to clipboard"></span></pre>
-    </div>
-</div>
-{{< /rawhtml >}}
+{{<expand2 title="Knickers（褲襠）">}}
+{{<img width=auto height=auto src="/LIHKG-Gwent-guide/knickers.jpg">}}
+<span style="font-style: italic;">This unit may raid the battlefield to aid you in battle.</span>
+<br/>
+<span style="font-style: italic;">它可能會沖入戰場，協助你戰鬥。</span>
+<br/>
+<br/>
+實際效果：
+<br/>
+我方每回合結束時，如果此卡在卡組，則有一定機率從卡組召喚（Summon）至我方場上隨機一列。
+<br/><!-- prettier-ignore -->
+（未被官方確認的）機率公式：100% - 10% * 我方手牌數。
+<br/>
+（註：我方 Pass 後此卡仍然可以觸發效果）
+{{</expand2>}}
 
 &nbsp;
 
 #### Q. 對面有 9 力以上既怪，點解我用傑洛特唔可以揀佢去殺？
 
-A. 99.999%係因為對面同一行既其他單位有{{< rawhtml >}}
-<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusDefender.png" style="margin: unset;"/></span>
-{{< /rawhtml >}}衛士（Defender）狀態。
+A. 99.999%係因為對面同一行既其他單位有{{<img width=20px height=20.80px src="/LIHKG-Gwent-guide/statusDefender.png">}}衛士（Defender）狀態。
 
-如果敵方某一行有{{< rawhtml >}}
-<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusDefender.png" style="margin: unset;"/></span>
-{{< /rawhtml >}}衛士單位，咁你任何既 **指定效果** 都唔可以指定佢果一行既其他卡，只能指定佢。
+如果敵方某一行有{{<img width=20px height=20.80px src="/LIHKG-Gwent-guide/statusDefender.png">}}衛士單位，咁你任何既 **指定效果** 都唔可以指定佢果一行既其他卡，只能指定佢。
 
 現時每個陣營都有一張衛士，新手要花少少時間認住佢地。
 
-{{< figure src="/LIHKG-Gwent-guide/defender.jpg">}}
+{{<figure src="/LIHKG-Gwent-guide/defender.jpg">}}
 
-用帶 **淨化（Purify）** 效果既卡（如 Geralt: Axii, Pellar），可以 **移除** {{< rawhtml >}}
-<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusDefender.png" style="margin: unset;"/></span>
-{{< /rawhtml >}}衛士狀態。
+用帶 **淨化（Purify）** 效果既卡（如 Geralt: Axii, Pellar），可以 **移除** {{<img width=20px height=20.80px src="/LIHKG-Gwent-guide/statusDefender.png">}}衛士狀態。
 
 留意唔同爐石，**昆特既鎖定（Lock）清唔到衛士狀態，必須用淨化**（或者直接將衛士摧毀）。
 
 **淨化** 會移除單位上既所有 **狀態（Status）**，正面或反面 **狀態** 都會一下清曬。**狀態** 列表如下：
 
-| 狀態 |      列表       |
-| :--: | :-------------: |
-| 正面 | {{< rawhtml >}} 
-
-<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusDefender.png" style="margin: unset;"/></span>
-{{< /rawhtml >}}[衛士（Defender）](https://teamleviathangaming.com/glossary/defender/)、{{< rawhtml >}}
-<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusImmunity.png" style="margin: unset;"/></span>
-{{< /rawhtml >}}[免疫（Immunity）](https://teamleviathangaming.com/glossary/immunity/)、{{< rawhtml >}}
-<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusResilience.png" style="margin: unset;"/></span>
-{{< /rawhtml >}}[堅韌（Resilience）](https://teamleviathangaming.com/glossary/resilience/)、{{< rawhtml >}}
-<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusShield.png" style="margin: unset;"/></span>
-{{< /rawhtml >}}[護盾（Shield）](https://teamleviathangaming.com/glossary/shield/)、{{< rawhtml >}}
-<span style="display: inline-block; width: 12.10px; height: 23.80px;"><img src="/LIHKG-Gwent-guide/statusVitality.png" style="margin: unset;"/></span>
-{{< /rawhtml >}}[活力（Vitality）](https://teamleviathangaming.com/glossary/vitality/)|
-|負面|{{< rawhtml >}}
-<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusPoison.png" style="margin: unset;"/></span>
-{{< /rawhtml >}}[中毒（Poison）](https://teamleviathangaming.com/glossary/poison/)、{{< rawhtml >}}
-<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusBounty.png" style="margin: unset;"/></span>
-{{< /rawhtml >}}[賞金（Bounty）](https://teamleviathangaming.com/glossary/bounty-status/)、{{< rawhtml >}}
-<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusLock.png" style="margin: unset;"/></span>
-{{< /rawhtml >}}[鎖定（Lock）](https://teamleviathangaming.com/glossary/lock/)、{{< rawhtml >}}
-<span style="display: inline-block;width: 12.10px; height: 23.80px;"><img src="/LIHKG-Gwent-guide/statusBleeding.png" style="margin: unset;"/></span>
-{{< /rawhtml >}}[重傷（Bleeding）](https://teamleviathangaming.com/glossary/bleeding-2/)、{{< rawhtml >}}
-<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusDoomed.png" style="margin: unset;"/></span>
-{{< /rawhtml >}}[佚亡（Doomed）](https://teamleviathangaming.com/glossary/doomed/)、{{< rawhtml >}}
-<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusSpying.png" style="margin: unset;"/></span>
-{{< /rawhtml >}}[潛伏（Spying）](https://teamleviathangaming.com/glossary/spying/)、{{< rawhtml >}}
-<span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusRupture.png" style="margin: unset;"/></span>
-{{< /rawhtml >}}[破裂（Rupture）](https://teamleviathangaming.com/glossary/rupture/)|
+<!-- prettier-ignore -->
+| 狀態 |     列表      |
+| :--: | :-----------: |
+| 正面 | {{<img width=20px height=20.80px src="/LIHKG-Gwent-guide/statusDefender.png">}}[衛士（Defender）](https://teamleviathangaming.com/glossary/defender/)、{{<img width=20px height=20.80px src="/LIHKG-Gwent-guide/statusImmunity.png">}}[免疫（Immunity）](https://teamleviathangaming.com/glossary/immunity/)、{{<img width=20px height=20.80px src="/LIHKG-Gwent-guide/statusResilience.png">}}[堅韌（Resilience）](https://teamleviathangaming.com/glossary/resilience/)、{{<img width=20px height=20.80px src="/LIHKG-Gwent-guide/statusShield.png">}}[護盾（Shield）](https://teamleviathangaming.com/glossary/shield/)、{{<img width=12.1px height=23.80px src="/LIHKG-Gwent-guide/statusVitality.png">}}[活力（Vitality）](https://teamleviathangaming.com/glossary/vitality/)|
+| 負面 |{{<img width=20px height=20.80px src="/LIHKG-Gwent-guide/statusPoison.png">}}[中毒（Poison）](https://teamleviathangaming.com/glossary/poison/)、{{<img width=20px height=20.80px src="/LIHKG-Gwent-guide/statusBounty.png">}}[賞金（Bounty）](https://teamleviathangaming.com/glossary/bounty-status/)、{{<img width=20px height=20.80px src="/LIHKG-Gwent-guide/statusLock.png">}}[鎖定（Lock）](https://teamleviathangaming.com/glossary/lock/)、{{<img width=12.1px height=23.80px src="/LIHKG-Gwent-guide/statusBleeding.png">}}[重傷（Bleeding）](https://teamleviathangaming.com/glossary/bleeding-2/)、{{<img width=20px height=20.80px src="/LIHKG-Gwent-guide/statusDoomed.png">}}[佚亡（Doomed）](https://teamleviathangaming.com/glossary/doomed/)、{{<img width=20px height=20.80px src="/LIHKG-Gwent-guide/statusSpying.png">}}[潛伏（Spying）](https://teamleviathangaming.com/glossary/spying/)、{{<img width=20px height=20.80px src="/LIHKG-Gwent-guide/statusRupture.png">}}[破裂（Rupture）](https://teamleviathangaming.com/glossary/rupture/)|
 
 &nbsp;
 
-{{< rawhtml >}}<h4 id="q-進階玩法咩野係長局短局同埋點解咁重要">Q. <AdvGP>（進階玩法）</AdvGP>咩野係<bold>長局／短局</bold>，同埋點解咁重要？ <span class="anchor" data-clipboard-text="http://localhost:1313/gameplay/#q-進階玩法咩野係長局短局同埋點解咁重要"><i class="fas fa-link fa-lg"></i></span></h4>{{< /rawhtml >}}
+{{<rawhtml>}}
+
+<h4 id="q-進階玩法咩野係長局短局同埋點解咁重要">Q. {{<class name="AdvGP" text="（進階玩法）">}}咩野係{{<class name="bold" text="長局／短局">}}，同埋點解咁重要？ <span class="anchor" data-clipboard-text="http://localhost:1313/gameplay/#q-進階玩法咩野係長局短局同埋點解咁重要"><i class="fas fa-link fa-lg"></i></span>
+</h4>
+
+{{</rawhtml>}}
 
 A. 長短局冇嚴格定義，打得愈多回合就愈長，愈少回合就愈短。
 
@@ -162,7 +138,13 @@ A. 長短局冇嚴格定義，打得愈多回合就愈長，愈少回合就愈�
 
 &nbsp;
 
-{{< rawhtml >}}<h4 id="q-進階玩法咩野係卡差card-advantageca先手定後手著數d">Q. <AdvGP>（進階玩法）</AdvGP>咩野係<bold>卡差（Card Advantage／CA）</bold>？先手定後手著數啲？ <span class="anchor" data-clipboard-text="http://localhost:1313/gameplay/#q-進階玩法咩野係卡差card-advantageca先手定後手著數d"><i class="fas fa-link fa-lg"></i></span 卡差（Card></h4>{{< /rawhtml >}}
+{{<rawhtml>}}
+
+<h4 id="q-進階玩法咩野係卡差card-advantageca先手定後手著數d">
+Q. {{<class name="AdvGP" text="（進階玩法）">}}咩野係{{<class name="bold" text="卡差（Card Advantage／CA）">}}？先手定後手著數啲？ <span class="anchor" data-clipboard-text="http://localhost:1313/gameplay/#q-進階玩法咩野係卡差card-advantageca先手定後手著數d"><i class="fas fa-link fa-lg"></i></span>
+</h4>
+
+{{</rawhtml>}}
 
 A. 請睇以下連結：
 
@@ -182,7 +164,13 @@ R2 同 R3 由上一小局獲勝既玩家先手（平局則上一局後手玩家�
 
 &nbsp;
 
-{{< rawhtml >}}<h4 id="q-進階玩法咩野係最後一手last-say">Q. <AdvGP>（進階玩法）</AdvGP>咩野係<bold>最後一手（Last Say）</bold>？ <span class="anchor" data-clipboard-text="http://localhost:1313/gameplay/#q-進階玩法咩野係最後一手last-say"><i class="fas fa-link fa-lg"></i></span></h4>{{< /rawhtml >}}
+{{<rawhtml>}}
+
+<h4 id="q-進階玩法咩野係最後一手last-say">
+Q. {{<class name="AdvGP" text="（進階玩法）">}}咩野係{{<class name="bold" text="最後一手（Last Say）">}}？ <span class="anchor" data-clipboard-text="http://localhost:1313/gameplay/#q-進階玩法咩野係最後一手last-say"><i class="fas fa-link fa-lg"></i></span>
+</h4>
+
+{{</rawhtml>}}
 
 A. **最後一手** 就係字面意思：決勝局最後一回合出牌既權利。
 

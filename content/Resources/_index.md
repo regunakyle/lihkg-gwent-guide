@@ -10,7 +10,7 @@ A. 資源分四種（下圖左至右）：
 
 獎勵點（Reward Point）、礦石（Ore）、碎片（Scrap）、星塵（Meteorite Powder）。
 
-{{< figure src="/LIHKG-Gwent-guide/resources.png">}}
+{{<figure src="/LIHKG-Gwent-guide/resources.png">}}
 
 獎勵點用黎開獎勵冊（Reward Book）；礦石用黎買桶；碎片用黎合卡；星塵用黎整閃卡／買飾品。
 
@@ -34,42 +34,47 @@ A. 資源分四種（下圖左至右）：
 
 每星期會出 3 個皇冠任務（有 Premium Pass 就再多 3 個），做完即送 20 皇冠點數。
 
-皇冠任務要 **按先後次序做**，但可以儲埋做，而且冇時限（除左旅程本身既時限）。
+皇冠任務要 **按先後次序做**，但可以儲埋做，而且冇時限（除咗旅程本身既時限）。
 
 另外，**每日頭 14 小勝** 會額外獎勵 1 皇冠點數（Well-rested bonus），每日上午 8 點重置。
 
 （例如：6 小勝=6\*2=12 皇冠點數；14 小勝=14\*2=28 皇冠點數；18 小勝=14\*2+4=32 皇冠點數）
 
-{{< rawhtml >}}
+{{<expand2 title="（更多資訊）">}}
 
-<div class="expand">
-    <div
-        class="expand-label"
-        style="cursor: pointer;"
-        onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});"
-    >
-        <i style="font-size: x-small;" class="fas fa-chevron-right"></i><bold>（更多資訊）</bold>
-    </div>
-    <div class="expand-content" style="display: none">
-        <pre><code class="hljs">1. 賺取皇冠點數有上限：一個星期最多賺350皇冠點數。（每星期四重置）<br/><br/>留意Well-rested bonus同皇冠任務提供既額外皇冠點數<bold>唔計入呢個上限</bold>。<br/><br/>所以就算你到左上限都可以繼續用Well-rested bonus同埋做任務賺皇冠點數。<br/><br/>2. 做曬所有普通皇冠任務（共36個）會送20獎勵點。<br/><br/>如果你<bold>買左Premium Pass</bold>，咁做曬額外既皇冠任務（共36個）都會送20獎勵點。<br/><br/>3. 就算冇買Premium Pass都可以做埋額外既皇冠任務（<bold>但冇皇冠點數獎勵</bold>）。<br/><br/>當你一買Premium Pass既時候，佢就即刻比番D皇冠點數你。<br/><br/>4. <bold>100級後可以繼續升級</bold>，每升一級送2獎勵點。<br/><br/>5. 如果你中途買Premium Pass，咁你可以一下攞曬高級旅程既相應獎勵。<br/><br/>例如你普通旅程50級時先買，咁你可以一下攞曬高級旅程50級既所有獎勵。</code><span class="copy-to-clipboard" title="Copy to clipboard"></span></pre>
-    </div>
-</div>
+1. 賺取皇冠點數有上限：一個星期最多賺 350 皇冠點數。（每星期四重置）
+   <br/>
+   留意 Well-rested bonus 同皇冠任務提供既額外皇冠點數{{<class name="bold" text="唔計入呢個上限">}}。
+   <br/>
+   所以就算你到咗上限都可以繼續用 Well-rested bonus 同埋做任務賺皇冠點數。
+   <br/>
+2. 做曬所有普通皇冠任務（共 36 個）會送 20 獎勵點。
+   <br/>
+   如果你{{<class name="bold" text="買咗 Premium Pass">}}，咁做曬額外既皇冠任務（共 36 個）都會送 20 獎勵點。
+   <br/>
+3. 就算冇買 Premium Pass 都可以做埋額外既皇冠任務（{{<class name="bold" text="但冇皇冠點數獎勵">}}）。
+   <br/>
+   當你一買 Premium Pass 既時候，佢就即刻比番 D 皇冠點數你。
+   <br/>
+4. {{<class name="bold" text="100 級後可以繼續升級">}}，每升一級送 2 獎勵點。
+   <br/>
+5. 如果你中途買 Premium Pass，咁你可以一下攞曬高級旅程既相應獎勵。
+   <br/>
+   例如你普通旅程 50 級時先買，咁你可以一下攞曬高級旅程 50 級既所有獎勵。
 
-{{< /rawhtml >}}
+{{</expand2>}}
 
 **4.日常任務**
 
 每日登入都會比一個任務，同一時間最多有三個任務。
 
-可以按右上角{{< rawhtml >}}
-<span style="display: inline-block;width: 21.67px; height: 20.00px;"><img src="/LIHKG-Gwent-guide/reload.png" style="margin: unset;"/></span>
-{{< /rawhtml >}}換任務，每日可換一次（聲望等級 2 或以上可換兩次）
+可以撳右上角{{<img width=21.67px height=20.00px src="/LIHKG-Gwent-guide/reload.png">}}換任務，每日可換一次（聲望等級 2 或以上可換兩次）
 
 **5.完成委託（Contract）**
 
 例如「令敵方流血 1000 次」委託送 7 獎勵點。
 
-去主界面按左上角自己頭像，再按委託就可睇曬所有委託既達成條件同獎勵。
+去主界面撳左上角自己頭像，再撳委託就可睇曬所有委託既達成條件同獎勵。
 
 **6.賽季末獎勵**
 
@@ -79,15 +84,13 @@ A. 資源分四種（下圖左至右）：
 
 #### Q. 新手點樣用獎勵點（Reward Point）最好？
 
-**A. 先揀一個獎勵樹，然後以最短路徑開曬入面既{{< rawhtml >}}
-<span style="display: inline-block;width: 41.54px; height: 38.50px;"><img src="/LIHKG-Gwent-guide/scroll.png" style="margin: unset;"/></span>
-{{< /rawhtml >}}劇情節點（Story Node）。**
+**A. 先揀一個獎勵樹，然後以最短路徑開曬入面既{{<img width=41.54px height=38.50px src="/LIHKG-Gwent-guide/scroll.png">}}劇情節點（Story Node）。**
 
 **同一個獎勵樹內，開得愈多劇情節點就愈多礦石（開第 4 個直接比 500 礦！），CP 值最高。**
 
 **開曬 4 個劇情節點後就可以轉開另一個獎勵樹。**
 
-**優先開** {{< rawhtml >}}<ST>松鼠黨</ST><bold>／</bold><SK>史凱利格</SK>{{< /rawhtml >}} **／猩紅詛咒（Crimson Curse）獎勵樹，呢三個開劇情節點最快。**
+**優先開** {{<class name="ST" text="松鼠黨">}}{{<class name="bold" text="／">}}{{<class name="SK" text="史凱利格">}} **／猩紅詛咒（Crimson Curse）獎勵樹，呢三個開劇情節點最快。**
 
 **開寶箱既礦石回報比開劇情節點少，不過有唔少其他野送，開唔開隨意。**
 
@@ -101,7 +104,7 @@ A. 資源分四種（下圖左至右）：
 
 A. 缺乏資源既新手一定係揀 **資源產出型（Resource Focused）**。
 
-另外，昆特 **冇得原價分解削弱／重製左既卡**。
+另外，昆特 **冇得原價分解削弱／重製咗既卡**。
 
 &nbsp;
 
