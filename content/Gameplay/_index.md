@@ -98,7 +98,7 @@ A. 99.999%係因為對面同一行既其他單位有{{< rawhtml >}}
 
 | 狀態 |      列表       |
 | :--: | :-------------: |
-| 正面 | {{< rawhtml >}} |
+| 正面 | {{< rawhtml >}} 
 
 <span style="display: inline-block;width: 20.00px; height: 20.80px;"><img src="/LIHKG-Gwent-guide/statusDefender.png" style="margin: unset;"/></span>
 {{< /rawhtml >}}[衛士（Defender）](https://teamleviathangaming.com/glossary/defender/)、{{< rawhtml >}}
