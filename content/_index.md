@@ -1,3 +1,7 @@
++++
+title = "首頁"
++++
+
 ## LIHKG 昆特牌入門指南
 
 - 作者: [極北鷲](https://www.playgwent.com/en/invite-a-friend/LVWFHBSH03)及某位巴打

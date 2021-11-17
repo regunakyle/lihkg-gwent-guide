@@ -1,8 +1,10 @@
 baseURL = "https://regunakyle.github.io/LIHKG-Gwent-guide/"
 languageCode = "zh-HK"
-title = "LIHKG Gwent Guide"
+title = "昆特牌教學"
 
 theme = "hugo-theme-relearn"
+
+enableRobotsTXT = true
 
 publishDir = "docs"
 
@@ -14,6 +16,8 @@ publishDir = "docs"
     disableLandingPageButton = true
     # Disabled because it is not working correctly with Chinese characters.
     disableSearch = true
+    author = "Reguna"
+    description = "Guide for GWENT: The Witcher Card Game, written in Cantonese."
 
 [[menu.shortcuts]] 
 name = "<i class='fa fa-comments'></i> 最新LIHKG貼文（16）"
