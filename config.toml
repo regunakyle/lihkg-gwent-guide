@@ -1,4 +1,3 @@
-baseURL = "https://regunakyle.github.io/LIHKG-Gwent-guide/"
 languageCode = "zh-HK"
 title = "昆特牌教學"
 
@@ -6,31 +5,30 @@ theme = "hugo-theme-relearn"
 
 enableRobotsTXT = true
 
-publishDir = "docs"
 
 [outputs]
-    home = [ "HTML", "RSS", "JSON"]
+home = ["HTML", "RSS", "JSON"]
 
 [params]
-    custom_css = ["css/custom.css"]
-    disableLandingPageButton = true
-    # Disabled because it is not working correctly with Chinese characters.
-    disableSearch = true
-    author = "Reguna"
-    description = "Guide for GWENT: The Witcher Card Game, written in Cantonese."
+custom_css = ["css/custom.css"]
+disableLandingPageButton = true
+# Disabled because it is not working correctly with Chinese characters.
+disableSearch = true
+author = "Reguna"
+description = "Guide for GWENT: The Witcher Card Game, written in Cantonese."
 
-[[menu.shortcuts]] 
-name = "<i class='fa fa-comments'></i> 最新LIHKG貼文（16）"
-url = "https://lih.kg/2669684"
+[[menu.shortcuts]]
+name = "<i class='fa fa-comments'></i> 最新LIHKG貼文（17）"
+url = "https://lih.kg/2844269"
 weight = 20
 
 #todo
-[[menu.shortcuts]] 
+[[menu.shortcuts]]
 name = "<i class='fas fa-network-wired'></i> 相關網站"
-url = "https://regunakyle.github.io/LIHKG-Gwent-guide/others/#其他相關網站"
+url = "https://regunakyle.github.io/lihkg-gwent-guide/others/#其他相關網站"
 weight = 21
 
-[[menu.shortcuts]] 
+[[menu.shortcuts]]
 name = "<i class='fab fa-github'></i> Github"
-url = "https://github.com/regunakyle/LIHKG-Gwent-guide/"
+url = "https://github.com/regunakyle/lihkg-gwent-guide/"
 weight = 22

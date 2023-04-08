@@ -18,7 +18,7 @@ A. Premium Pass ＋（特價時既）單人模式 Thronebreaker ＋ 陣營包 �
 
 A. **Thronebreaker（中譯「王權的隕落」）** 係一隻獨立於昆特既單機遊戲。
 
-遊戲講述萊里亞及利維亞女王[米薇](https://witcher.fandom.com/wiki/Meve)既故事。傑洛特都有出場，不過只出現咗一次 {{<gif src="/LIHKG-Gwent-guide/sosad.gif">}}
+遊戲講述萊里亞及利維亞女王[米薇](https://witcher.fandom.com/wiki/Meve)既故事。傑洛特都有出場，不過只出現咗一次 {{<gif src="/lihkg-gwent-guide/sosad.gif">}}
 
 遊戲內戰鬥以昆特牌形式進行。如果認真玩，大約需要兩三日爆機。
 
@@ -30,7 +30,7 @@ A. **Thronebreaker（中譯「王權的隕落」）** 係一隻獨立於昆特�
 
 **Thronebreaker 有繁體中文同普通話配音**。
 
-{{<figure src="/LIHKG-Gwent-guide/thronebreaker.png">}}
+{{<figure src="/lihkg-gwent-guide/thronebreaker.png">}}
 
 &nbsp;
 
@@ -51,7 +51,7 @@ A. Thronebreaker 既回報係：
 
 只需用半日時間就可以攞到差唔多所有獎勵，價格又唔太貴，非常抵買。
 
-（感謝 [打火石](https://www.playgwent.com/en/invite-a-friend/C7UK0AVO49) 巴打既提問，佢比我連續誤導咗兩次 {{<gif src="/LIHKG-Gwent-guide/sosad.gif">}}）。
+（感謝 [打火石](https://www.playgwent.com/en/invite-a-friend/C7UK0AVO49) 巴打既提問，佢比我連續誤導咗兩次 {{<gif src="/lihkg-gwent-guide/sosad.gif">}}）。
 
 &nbsp;
 
@@ -77,9 +77,9 @@ A. 可以使用全成就存檔。 **再提一次：手機版冇得用存檔大�
 
 （以下資訊出自[MYGLIVE@Bilibili](https://space.bilibili.com/8831988)）
 
-先下載咗[呢個檔](https://github.com/regunakyle/LIHKG-Gwent-guide/releases/tag/v1.0)先。解壓縮後開番入面個文檔，再跟住入面既步驟做就得。
+先下載咗[呢個檔](https://github.com/regunakyle/lihkg-gwent-guide/releases/download/v2.1/LIHKG_Thronebreaker.zip)先。解壓縮後再跟住入面文檔既步驟做就得。
 
-佢文檔開頭有兩條片既連結，可以開黎睇下佢點做。
+文檔開頭有兩條片既連結，可以開黎睇下佢點做。
 
 **麻煩用之前先將自己既存檔備份。**
 

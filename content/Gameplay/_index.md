@@ -16,7 +16,7 @@ A. 有好多，諗到乜講乜：
 
 **2. 每行最多放 9 張卡。**
 
-單位／{{<img width=20px height=26.58px src="/LIHKG-Gwent-guide/typeArtifact.png">}}神器／ **先手** {{<img width=22.00px height=20.00px src="/LIHKG-Gwent-guide/typeStrategem.png">}} **戰術牌（Stratagem）** 全部會佔位置。玩鋪場卡組時尤其要注意。
+單位／{{<img width=20px height=26.58px src="/lihkg-gwent-guide/typeArtifact.png">}}神器／ **先手** {{<img width=22.00px height=20.00px src="/lihkg-gwent-guide/typeStrategem.png">}} **戰術牌（Stratagem）** 全部會佔位置。玩鋪場卡組時尤其要注意。
 
 **3. 如果你當回合未出牌，但用咗場上既指令（Order）或領袖技能，咁你就必須打出一張牌。**
 
@@ -37,7 +37,7 @@ A. 有好多，諗到乜講乜：
 **6. 特別既卡牌效果介紹**
 
 {{<expand2 title="Shupe's Day Off（店店的大冒險）">}}
-{{<img width=auto height=auto src="/LIHKG-Gwent-guide/shupe.jpg">}}
+{{<img width=auto height=auto src="/lihkg-gwent-guide/shupe.jpg">}}
 <span style="font-style: italic;">If your starting deck has no duplicates, send Shupe on an adventure.</span>
 <br/>
 <span style="font-style: italic;">若己方起始牌組沒有重複牌，則派“店店”去冒險。</span>
@@ -54,11 +54,11 @@ A. 有好多，諗到乜講乜：
 玩家從三個效果中擇一，最後打出店店並觸發所選效果。
 <br/>
 （註：長按卡片會彈出卡片效果介面，可從中找到效果一覽）
-{{<img width=auto height=auto src="/LIHKG-Gwent-guide/shupeDescription.png">}}
+{{<img width=auto height=auto src="/lihkg-gwent-guide/shupeDescription.png">}}
 {{</expand2>}}
 
 {{<expand2 title="Knickers（褲襠）">}}
-{{<img width=auto height=auto src="/LIHKG-Gwent-guide/knickers.jpg">}}
+{{<img width=auto height=auto src="/lihkg-gwent-guide/knickers.jpg">}}
 <span style="font-style: italic;">This unit may raid the battlefield to aid you in battle.</span>
 <br/>
 <span style="font-style: italic;">它可能會沖入戰場，協助你戰鬥。</span>
@@ -77,15 +77,15 @@ A. 有好多，諗到乜講乜：
 
 #### Q. 對面有 9 力以上既怪，點解我用傑洛特唔可以揀佢去殺？
 
-A. 99.999%係因為對面同一行既其他單位有{{<img width=20px height=20.80px src="/LIHKG-Gwent-guide/statusDefender.png">}}衛士（Defender）狀態。
+A. 99.999%係因為對面同一行既其他單位有{{<img width=20px height=20.80px src="/lihkg-gwent-guide/statusDefender.png">}}衛士（Defender）狀態。
 
-如果敵方某一行有{{<img width=20px height=20.80px src="/LIHKG-Gwent-guide/statusDefender.png">}}衛士單位，咁你任何既 **指定效果** 都唔可以指定佢果一行既其他卡，只能指定佢。
+如果敵方某一行有{{<img width=20px height=20.80px src="/lihkg-gwent-guide/statusDefender.png">}}衛士單位，咁你任何既 **指定效果** 都唔可以指定佢果一行既其他卡，只能指定佢。
 
 現時每個陣營都有一張衛士，新手要花少少時間認住佢地。
 
-{{<figure src="/LIHKG-Gwent-guide/defender.jpg">}}
+{{<figure src="/lihkg-gwent-guide/defender.jpg">}}
 
-用帶 **淨化（Purify）** 效果既卡（如 Geralt: Axii, Pellar），可以 **移除** {{<img width=20px height=20.80px src="/LIHKG-Gwent-guide/statusDefender.png">}}衛士狀態。
+用帶 **淨化（Purify）** 效果既卡（如 Geralt: Axii, Pellar），可以 **移除** {{<img width=20px height=20.80px src="/lihkg-gwent-guide/statusDefender.png">}}衛士狀態。
 
 留意唔同爐石，**昆特既鎖定（Lock）清唔到衛士狀態，必須用淨化**（或者直接將衛士摧毀）。
 
@@ -94,8 +94,8 @@ A. 99.999%係因為對面同一行既其他單位有{{<img width=20px height=20.
 <!-- prettier-ignore -->
 | 狀態 |     列表      |
 | :--: | :-----------: |
-| 正面 | {{<img width=20px height=20.80px src="/LIHKG-Gwent-guide/statusDefender.png">}}[衛士（Defender）](https://teamleviathangaming.com/glossary/defender/)、{{<img width=20px height=20.80px src="/LIHKG-Gwent-guide/statusImmunity.png">}}[免疫（Immunity）](https://teamleviathangaming.com/glossary/immunity/)、{{<img width=20px height=20.80px src="/LIHKG-Gwent-guide/statusResilience.png">}}[堅韌（Resilience）](https://teamleviathangaming.com/glossary/resilience/)、{{<img width=20px height=20.80px src="/LIHKG-Gwent-guide/statusShield.png">}}[護盾（Shield）](https://teamleviathangaming.com/glossary/shield/)、{{<img width=12.1px height=23.80px src="/LIHKG-Gwent-guide/statusVitality.png">}}[活力（Vitality）](https://teamleviathangaming.com/glossary/vitality/)|
-| 負面 |{{<img width=20px height=20.80px src="/LIHKG-Gwent-guide/statusPoison.png">}}[中毒（Poison）](https://teamleviathangaming.com/glossary/poison/)、{{<img width=20px height=20.80px src="/LIHKG-Gwent-guide/statusBounty.png">}}[賞金（Bounty）](https://teamleviathangaming.com/glossary/bounty-status/)、{{<img width=20px height=20.80px src="/LIHKG-Gwent-guide/statusLock.png">}}[鎖定（Lock）](https://teamleviathangaming.com/glossary/lock/)、{{<img width=12.1px height=23.80px src="/LIHKG-Gwent-guide/statusBleeding.png">}}[重傷（Bleeding）](https://teamleviathangaming.com/glossary/bleeding-2/)、{{<img width=20px height=20.80px src="/LIHKG-Gwent-guide/statusDoomed.png">}}[佚亡（Doomed）](https://teamleviathangaming.com/glossary/doomed/)、{{<img width=20px height=20.80px src="/LIHKG-Gwent-guide/statusSpying.png">}}[潛伏（Spying）](https://teamleviathangaming.com/glossary/spying/)、{{<img width=20px height=20.80px src="/LIHKG-Gwent-guide/statusRupture.png">}}[破裂（Rupture）](https://teamleviathangaming.com/glossary/rupture/)|
+| 正面 | {{<img width=20px height=20.80px src="/lihkg-gwent-guide/statusDefender.png">}}[衛士（Defender）](https://teamleviathangaming.com/glossary/defender/)、{{<img width=20px height=20.80px src="/lihkg-gwent-guide/statusImmunity.png">}}[免疫（Immunity）](https://teamleviathangaming.com/glossary/immunity/)、{{<img width=20px height=20.80px src="/lihkg-gwent-guide/statusResilience.png">}}[堅韌（Resilience）](https://teamleviathangaming.com/glossary/resilience/)、{{<img width=20px height=20.80px src="/lihkg-gwent-guide/statusShield.png">}}[護盾（Shield）](https://teamleviathangaming.com/glossary/shield/)、{{<img width=12.1px height=23.80px src="/lihkg-gwent-guide/statusVitality.png">}}[活力（Vitality）](https://teamleviathangaming.com/glossary/vitality/)|
+| 負面 |{{<img width=20px height=20.80px src="/lihkg-gwent-guide/statusPoison.png">}}[中毒（Poison）](https://teamleviathangaming.com/glossary/poison/)、{{<img width=20px height=20.80px src="/lihkg-gwent-guide/statusBounty.png">}}[賞金（Bounty）](https://teamleviathangaming.com/glossary/bounty-status/)、{{<img width=20px height=20.80px src="/lihkg-gwent-guide/statusLock.png">}}[鎖定（Lock）](https://teamleviathangaming.com/glossary/lock/)、{{<img width=12.1px height=23.80px src="/lihkg-gwent-guide/statusBleeding.png">}}[重傷（Bleeding）](https://teamleviathangaming.com/glossary/bleeding-2/)、{{<img width=20px height=20.80px src="/lihkg-gwent-guide/statusDoomed.png">}}[佚亡（Doomed）](https://teamleviathangaming.com/glossary/doomed/)、{{<img width=20px height=20.80px src="/lihkg-gwent-guide/statusSpying.png">}}[潛伏（Spying）](https://teamleviathangaming.com/glossary/spying/)、{{<img width=20px height=20.80px src="/lihkg-gwent-guide/statusRupture.png">}}[破裂（Rupture）](https://teamleviathangaming.com/glossary/rupture/)|
 
 &nbsp;
 

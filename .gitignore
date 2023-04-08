@@ -1,4 +1,16 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
 
-#general
-/.vscode
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Temporary lock file while building
+/.hugo_build.lock
+
+# General
+/.vscode/

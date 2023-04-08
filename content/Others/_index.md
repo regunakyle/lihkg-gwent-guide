@@ -30,10 +30,10 @@ A. [Twitch 昆特台](https://www.twitch.tv/directory/game/Gwent%3A%20The%20Witc
 安裝瀏覽器插件<a href="https://betterttv.com/" style="font-weight: bold; display: initial;">BetterTTV。</a>
 安裝前：
 <br/>
-{{<img width=auto height=auto src="/LIHKG-Gwent-guide/bttvBefore.jpg" style="margin: unset;">}}
+{{<img width=auto height=auto src="/lihkg-gwent-guide/bttvBefore.jpg" style="margin: unset;">}}
 安裝後（留意聊天室多咗大量 Emote）：
 <br/>
-{{<img width=auto height=auto src="/LIHKG-Gwent-guide/bttvAfter.jpg" style="margin: unset;">}}
+{{<img width=auto height=auto src="/lihkg-gwent-guide/bttvAfter.jpg" style="margin: unset;">}}
 如果有 Twitch 帳號，登入後撳右上角自己頭像會彈出一列野，入面可以搵到 BTTV 設定。
 <br/>
 呢個唔止睇昆特有用：基本上外國既實況主全部都會用 BetterTTV 既 Emote。
@@ -43,19 +43,19 @@ A. [Twitch 昆特台](https://www.twitch.tv/directory/game/Gwent%3A%20The%20Witc
 
 #### Q. 有冇觀戰模式？
 
-A. **冇**。出咗五年以上既遊戲到而家都未有觀戰{{<gif src="/LIHKG-Gwent-guide/sosad.gif">}}
+A. **冇**。出咗五年以上既遊戲到而家都未有觀戰{{<gif src="/lihkg-gwent-guide/sosad.gif">}}
 
 而家有[錦標賽模式](https://tournaments.playgwent.com/about)，可以係遊戲內搞比賽+觀戰。
 
 好友觀戰就貌似要等到 ~~2021~~ 2077 年。
 
-{{<figure src="/LIHKG-Gwent-guide/2077.jpg" attr="Remember me?">}}
+{{<figure src="/lihkg-gwent-guide/2077.jpg" attr="Remember me?">}}
 
 &nbsp;
 
 #### Q. 邊到搵客服？
 
-A. [呢到](https://support.cdprojektred.com/en/gwent/pc)。英文唔得既話可以上連登求助 {{<gif src="/LIHKG-Gwent-guide/sosad.gif">}}
+A. [呢到](https://support.cdprojektred.com/en/gwent/pc)。英文唔得既話可以上連登求助 {{<gif src="/lihkg-gwent-guide/sosad.gif">}}
 
 又或者寫英文電郵去[pc_gwent@cdprojektred.com](mailto:pc_gwent@cdprojektred.com)。
 

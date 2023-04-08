@@ -46,7 +46,7 @@ A. **新手要直接打 Ranked（即標準／Standard）**。
 
 另外仲有個 **非排位（Unranked）** 模式。要去訓練（Training）模式揀對陣玩家（Versus Player）先入到。
 
-唔推薦新手玩呢個，因為呢個模式少人玩，又多牛鬼蛇神（有機會撞到職業玩家 {{<gif src="/LIHKG-Gwent-guide/sosad.gif">}}）。
+唔推薦新手玩呢個，因為呢個模式少人玩，又多牛鬼蛇神（有機會撞到職業玩家 {{<gif src="/lihkg-gwent-guide/sosad.gif">}}）。
 
 &nbsp;
 
@@ -109,7 +109,7 @@ A. 如果已經決定好要專注某一個陣營既話，就全力買陣營桶�
 
 A. 可以上連登 Post 問。（淨係問金卡好喇，銅卡自己揀）
 
-Rule of thumb：有閃卡就揀閃卡 {{<gif src="/LIHKG-Gwent-guide/yup.gif">}}
+Rule of thumb：有閃卡就揀閃卡 {{<gif src="/lihkg-gwent-guide/yup.gif">}}
 
 &nbsp;
 
@@ -125,7 +125,7 @@ A. 有：可以去[Steam](https://store.steampowered.com/app/1284410/)或[GOG](h
 （圖片摘自營地）
 <br/>
 <span style="display: inline-block;">
-<img src="/LIHKG-Gwent-guide/iOS.png" style="margin: unset;"/>
+<img src="/lihkg-gwent-guide/iOS.png" style="margin: unset;"/>
 </span>
 {{</expand2>}}
 

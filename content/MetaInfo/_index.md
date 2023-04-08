@@ -5,7 +5,7 @@ weight = 8
 
 ## 感謝你閱讀本指南！
 
-如果你發現任何錯處或想提出建議，請往 Github 創建[Issue](https://github.com/regunakyle/LIHKG-Gwent-guide/issues)，或直接於最新 LIHKG 昆特貼文聯絡本人。
+如果你發現任何錯處或想提出建議，請往 Github 創建[Issue](https://github.com/regunakyle/lihkg-gwent-guide/issues)，或直接於最新 LIHKG 昆特貼文聯絡本人。
 
 &nbsp;
 
