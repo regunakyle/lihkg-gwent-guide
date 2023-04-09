@@ -5,7 +5,6 @@ theme = "hugo-theme-relearn"
 
 enableRobotsTXT = true
 
-
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 
@@ -22,7 +21,6 @@ name = "<i class='fa fa-comments'></i> 最新LIHKG貼文（17）"
 url = "https://lih.kg/2844269"
 weight = 20
 
-#todo
 [[menu.shortcuts]]
 name = "<i class='fas fa-network-wired'></i> 相關網站"
 url = "https://regunakyle.github.io/lihkg-gwent-guide/others/#其他相關網站"
