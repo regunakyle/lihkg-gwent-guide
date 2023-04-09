@@ -10,7 +10,7 @@ A. 資源分四種（下圖左至右）：
 
 獎勵點（Reward Point）、礦石（Ore）、碎片（Scrap）、星塵（Meteorite Powder）。
 
-{{<figure src="/lihkg-gwent-guide/resources.png">}}
+{{<figure src="/images/resources.png">}}
 
 獎勵點用黎開獎勵冊（Reward Book）；礦石用黎買桶；碎片用黎合卡；星塵用黎整閃卡／買飾品。
 
@@ -68,7 +68,7 @@ A. 資源分四種（下圖左至右）：
 
 每日登入都會比一個任務，同一時間最多有三個任務。
 
-可以撳右上角{{<img width=21.67px height=20.00px src="/lihkg-gwent-guide/reload.png">}}換任務，每日可換一次（聲望等級 2 或以上可換兩次）
+可以撳右上角{{<img width=21.67px height=20.00px src="images/reload.png">}}換任務，每日可換一次（聲望等級 2 或以上可換兩次）
 
 **5.完成委託（Contract）**
 
@@ -84,7 +84,7 @@ A. 資源分四種（下圖左至右）：
 
 #### Q. 新手點樣用獎勵點（Reward Point）最好？
 
-**A. 先揀一個獎勵樹，然後以最短路徑開曬入面既{{<img width=41.54px height=38.50px src="/lihkg-gwent-guide/scroll.png">}}劇情節點（Story Node）。**
+**A. 先揀一個獎勵樹，然後以最短路徑開曬入面既{{<img width=41.54px height=38.50px src="images/scroll.png">}}劇情節點（Story Node）。**
 
 **同一個獎勵樹內，開得愈多劇情節點就愈多礦石（開第 4 個直接比 500 礦！），CP 值最高。**
 

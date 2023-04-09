@@ -8,9 +8,9 @@ title = "首頁"
 
 - 最後更新於 2021 年 11 月 11 日
 
-{{<figure src="/lihkg-gwent-guide/thumbnail.png">}}
+{{<figure src="/images/thumbnail.png">}}
 
-{{<figure src="/lihkg-gwent-guide/meme.jpg" attr="昆特最強領袖 Radovid Africa" attrlink="https://youtu.be/b72WUMluc-I" >}}
+{{<figure src="/images/meme.jpg" attr="昆特最強領袖 Radovid Africa" attrlink="https://youtu.be/b72WUMluc-I" >}}
 
 下載連結: **[iOS](https://apps.apple.com/hk/app/gwent-the-witcher-card-game/id1466943149)**/**[Android](https://play.google.com/store/apps/details?id=com.cdprojektred.gwent)**
 

@@ -24,7 +24,7 @@ pre = "<b>6. </b>"
 
 &nbsp;
 
-##### 一個賽季結束後，所有 **打過至少一場 Rank** 既玩家都會獲得獎勵點。
+##### 一個賽季結束後，所有 **打過至少一場 Rank** 既玩家都會獲得獎勵點
 
 獲得幾多就由你當季 Rank 決定：
 
@@ -88,7 +88,7 @@ Pro Rank 排名係睇你最高四個 **陣營分數（Faction MMR／fMMR）** �
 
 #### Q. 人均 Rank 幾？
 
-A. 梗係人均 Pro Rank 啦 {{<gif src="/lihkg-gwent-guide/yup.gif">}}
+A. 梗係人均 Pro Rank 啦 {{<gif src="images/yup.gif">}}
 
 認真啲講，因為賽季末跌 Rank 慢，上 Pro Rank 可以話只係時間問題。
 
