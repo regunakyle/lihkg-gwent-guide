@@ -125,7 +125,7 @@ A. 有：可以去[Steam](https://store.steampowered.com/app/1284410/)或[GOG](h
 （圖片摘自營地）
 <br/>
 <span style="display: inline-block;">
-<img src="images/iOS.png" style="margin: unset;"/>
+{{<img width=auto height=auto src="images/iOS.png">}}
 </span>
 {{</expand2>}}
 

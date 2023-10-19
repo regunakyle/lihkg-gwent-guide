@@ -65,7 +65,7 @@ A. 手機版可以直接課卡包；PC 版就要到 Steam／GOG 課。
 
 **如果你係手機版入坑，買 Thronebreaker 前要先保證你 PC 同手機版個昆特帳號相通。**
 
-另外 Thronebreaker 可以等特價，上次 **四折** 只售港幣 60 蚊咗右。
+另外 Thronebreaker 可以等特價，上次 **四折** 只售港幣 60 蚊左右。
 
 **如果想支持 CDPR 既話，課金時就要用 GOG，因為其他平台有抽成（Steam／Apple／Google 全部抽 30%）。**
 
