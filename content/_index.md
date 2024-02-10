@@ -1,5 +1,6 @@
 +++
 title = "首頁"
+archetype = "home"
 +++
 
 ## LIHKG 昆特牌入門指南

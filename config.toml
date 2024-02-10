@@ -5,16 +5,21 @@ theme = "hugo-theme-relearn"
 
 enableRobotsTXT = true
 
+[services]
+[services.googleAnalytics]
+ID = 'G-39JNMJPK4V'
+
 [outputs]
-home = ["HTML", "RSS", "JSON"]
+home = ["HTML", "RSS", "SEARCH"]
 
 [params]
-custom_css = ["css/custom.css"]
 disableLandingPageButton = true
 # Disabled because it is not working correctly with Chinese characters.
 disableSearch = true
-author = "Reguna"
+author.name = "Reguna"
 description = "Guide for GWENT: The Witcher Card Game, written in Cantonese."
+
+themeVariant = "relearn-dark"
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-comments'></i> 最新LIHKG貼文（17）"
