@@ -40,29 +40,33 @@ A. 資源分四種（下圖左至右）：
 
 （例如：6 小勝=6\*2=12 皇冠點數；14 小勝=14\*2=28 皇冠點數；18 小勝=14\*2+4=32 皇冠點數）
 
-{{<expand2 title="（更多資訊）">}}
+{{<expand title="（更多資訊）">}}
 
-1. 賺取皇冠點數有上限：一個星期最多賺 350 皇冠點數。（每星期四重置）
-   <br/>
+<span style="text-decoration: underline;">賺取皇冠點數有上限</span>
+   <br/><br/>
+   一個星期最多賺 350 皇冠點數。（每星期四重置）
+   <br/><br/>
    留意 Well-rested bonus 同皇冠任務提供既額外皇冠點數{{<class name="bold" text="唔計入呢個上限">}}。
-   <br/>
+   <br/><br/>
    所以就算你到咗上限都可以繼續用 Well-rested bonus 同埋做任務賺皇冠點數。
-   <br/>
-2. 做曬所有普通皇冠任務（共 36 個）會送 20 獎勵點。
-   <br/>
+   <br/><br/>
+<span style="text-decoration: underline;">做曬所有普通皇冠任務（共 36 個）會送 20 獎勵點</span>
+   <br/><br/>
    如果你{{<class name="bold" text="買咗 Premium Pass">}}，咁做曬額外既皇冠任務（共 36 個）都會送 20 獎勵點。
-   <br/>
-3. 就算冇買 Premium Pass 都可以做埋額外既皇冠任務（{{<class name="bold" text="但冇皇冠點數獎勵">}}）。
-   <br/>
+   <br/><br/>
+<span style="text-decoration: underline;">就算冇買 Premium Pass 都可以做埋額外既皇冠任務（{{<class name="bold" text="但冇皇冠點數獎勵">}}）</span>
+   <br/><br/>
    當你一買 Premium Pass 既時候，佢就即刻比番 D 皇冠點數你。
-   <br/>
-4. {{<class name="bold" text="100 級後可以繼續升級">}}，每升一級送 2 獎勵點。
-   <br/>
-5. 如果你中途買 Premium Pass，咁你可以一下攞曬高級旅程既相應獎勵。
-   <br/>
+   <br/><br/>
+<span style="text-decoration: underline;">{{<class name="bold" text="100 級後可以繼續升級">}}</span>
+   <br/><br/>
+   每升一級送 2 獎勵點。
+   <br/><br/>
+<span style="text-decoration: underline;">如果你中途買 Premium Pass，咁你可以一下攞曬高級旅程既相應獎勵</span>
+   <br/><br/>
    例如你普通旅程 50 級時先買，咁你可以一下攞曬高級旅程 50 級既所有獎勵。
 
-{{</expand2>}}
+{{</expand>}}
 
 **4.日常任務**
 

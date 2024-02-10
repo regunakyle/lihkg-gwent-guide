@@ -36,42 +36,44 @@ A. 有好多，諗到乜講乜：
 
 **6. 特別既卡牌效果介紹**
 
-{{<expand2 title="Shupe's Day Off（店店的大冒險）">}}
+{{<expand title="Shupe's Day Off（店店的大冒險）">}}
 {{<img width=auto height=auto src="images/shupe.jpg">}}
+<br/><br/>
 <span style="font-style: italic;">If your starting deck has no duplicates, send Shupe on an adventure.</span>
-<br/>
+<br/><br/>
 <span style="font-style: italic;">若己方起始牌組沒有重複牌，則派“店店”去冒險。</span>
-<br/>
-<br/>
-實際效果：
-<br/>
+<br/><br/>
+<span style="text-decoration: underline;">實際效果</span>
+<br/><br/>
 如果玩家起始卡組（即卡組編輯器內的卡組構成，與使用此卡當下的卡組情況無關）內沒有重複卡，
-<br/>
+<br/><br/>
 玩家先從 <bold>法師（Mage）／獵人（Hunter）／騎士（Knight）</bold> 三者之中擇一。
-<br/>
+<br/><br/>
 系統從所選類型的五種效果中隨機選出三個效果。
-<br/>
+<br/><br/>
 玩家從三個效果中擇一，最後打出店店並觸發所選效果。
-<br/>
+<br/><br/>
 （註：長按卡片會彈出卡片效果介面，可從中找到效果一覽）
+<br/><br/>
 {{<img width=auto height=auto src="images/shupeDescription.png">}}
-{{</expand2>}}
+<br/>
+{{</expand>}}
 
-{{<expand2 title="Knickers（褲襠）">}}
+{{<expand title="Knickers（褲襠）">}}
 {{<img width=auto height=auto src="images/knickers.jpg">}}
+<br/><br/>
 <span style="font-style: italic;">This unit may raid the battlefield to aid you in battle.</span>
-<br/>
+<br/><br/>
 <span style="font-style: italic;">它可能會沖入戰場，協助你戰鬥。</span>
-<br/>
-<br/>
-實際效果：
-<br/>
+<br/><br/>
+<span style="text-decoration: underline;">實際效果</span>
+<br/><br/>
 我方每回合結束時，如果此卡在卡組，則有一定機率從卡組召喚（Summon）至我方場上隨機一列。
-<br/><!-- prettier-ignore -->
+<br/><br/>
 （未被官方確認的）機率公式：100% - 10% * 我方手牌數。
-<br/>
+<br/><br/>
 （註：我方 Pass 後此卡仍然可以觸發效果）
-{{</expand2>}}
+{{</expand>}}
 
 &nbsp;
 

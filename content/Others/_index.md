@@ -26,18 +26,19 @@ A. [Twitch 昆特台](https://www.twitch.tv/directory/game/Gwent%3A%20The%20Witc
 
 當然仲有好多其他實況主未被列出，要靠你自己去搵岩你既台。
 
-{{<expand2 title="（PC Only）Twitch台改善觀看體驗">}}
-安裝瀏覽器插件<a href="https://betterttv.com/" style="font-weight: bold; display: initial;">BetterTTV。</a>
+{{<expand title="（PC Only）Twitch台改善觀看體驗">}}
+安裝瀏覽器插件<a href="https://betterttv.com/" style="font-weight: bold; display: initial;">BetterTTV</a>。
+<br/><br/>
 安裝前：
-<br/>
+<br/><br/>
 {{<img width=auto height=auto src="images/bttvBefore.jpg" style="margin: unset;">}}
 安裝後（留意聊天室多咗大量 Emote）：
-<br/>
+<br/><br/>
 {{<img width=auto height=auto src="images/bttvAfter.jpg" style="margin: unset;">}}
 如果有 Twitch 帳號，登入後撳右上角自己頭像會彈出一列野，入面可以搵到 BTTV 設定。
-<br/>
+<br/><br/>
 呢個唔止睇昆特有用：基本上外國既實況主全部都會用 BetterTTV 既 Emote。
-{{</expand2>}}
+{{</expand>}}
 
 &nbsp;
 
@@ -77,7 +78,7 @@ A. 卡牌遊戲呢家野本身已經屬小眾，昆特仲要係比較硬核果�
 
 #### 其他相關網站
 
-**[Discord：台灣昆特牌討論群組](https://discord.gg/QZBDB8n)**
+[Discord：台灣昆特牌討論群組](https://discord.gg/QZBDB8n)
 
 [Youtube：The Great Dandelion Show （搞笑時刻集錦）](https://www.youtube.com/channel/UCjkcfCDhJlzw_jazRjkAaTQ)
 

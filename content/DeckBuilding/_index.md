@@ -46,16 +46,17 @@ A. 記住抄卡組需謹慎。睇清楚自己抄緊啲乜，抄完要識玩。
 
 有時間既話可以去[Twitch](../others/)/Youtube 睇高手玩，順便抄埋佢地既卡組。
 
-{{<expand2 title="（PC Only）抄卡組教學">}}
+{{<expand title="（PC Only）抄卡組教學">}}
 用 PC 睇 Twitch 昆特台直播時，係墓地同卡組旁邊都有眼球圖案（重播冇），如下圖：
-<br/>
+<br/><br/>
 {{<img width=auto height=auto src="images/gwentObserver.jpg">}}
+<br/>
 撳入去就會睇到墓地同牌組有咩牌。
-<br/>
+<br/><br/>
 你可以等佢一開局時就睇佢手牌同牌組（例如 Cap 低圖），咁就可以方便地抄卡組。
-<br/>
+<br/><br/>
 又或者可以用抄 Deck 既聊天室指令碼（通常係 <span style="font-style: italic;">!deck</span> ），但唔一定有。
-{{</expand2>}}
+{{</expand>}}
 
 &nbsp;
 

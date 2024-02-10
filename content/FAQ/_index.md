@@ -89,15 +89,16 @@ A. **唔洗**。昆特冇一張卡係勁到贏在起跑線既程度。
 
 A. 如果已經決定好要專注某一個陣營既話，就全力買陣營桶。
 
-{{<expand2 title="（原因）">}}
+{{<expand title="（原因）">}}
 陣營桶只會出指定陣營既卡，例如 {{<class name="MO" text="怪獸">}} 桶只會出 {{<class name="MO" text="怪獸">}} 陣營卡（陣營桶 {{<class name="bold" text="唔會出中立卡">}} ）。
-<br/>
+<br/><br/>
 終極桶就咩卡都可能出，咩陣營既卡都有（包括中立卡）。
-<br/>
+<br/><br/>
 對新手黎講，因為而家既 {{<class name="bold" text="成型卡組主要都係由陣營卡組成">}} ，所以如果你已經諗好玩邊個陣營既話，買陣營桶既集卡速度會比買終極桶快。
-<br/>
+<br/><br/>
 亦因為係咁，個人強烈建議新手 {{<class name="bold" text="盡快選擇專注既陣營">}} 。
-{{</expand2>}}
+<br/><br/>
+{{</expand>}}
 
 如果未決定專注既陣營，就開住終極（Ultimate）桶先。
 
@@ -121,13 +122,13 @@ A. 有：可以去[Steam](https://store.steampowered.com/app/1284410/)或[GOG](h
 
 {{<class name="MO" text="PC 版(Steam/GOG)同手機版(iOS/Android)可以共用同一個 GOG 帳號。">}}
 
-{{<expand2 title="如果你係用Apple ID入坑，但又想玩PC版，請睇：">}}
+{{<expand title="如果你係用Apple ID入坑，但又想玩PC版，請睇：">}}
 （圖片摘自營地）
 <br/>
 <span style="display: inline-block;">
 {{<img width=auto height=auto src="images/iOS.png">}}
 </span>
-{{</expand2>}}
+{{</expand>}}
 
 &nbsp;
 
