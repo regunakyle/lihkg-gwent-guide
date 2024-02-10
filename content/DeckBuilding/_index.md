@@ -14,11 +14,11 @@ pre = "<b>3. </b>"
 
 每一張卡（除咗戰術牌）既 **右下角** 都有一個數字，呢個數字代表張卡既 **人口（Provision Cost）**。愈勁既卡 **人口** 數愈高。
 
-{{<figure src="/images/type.png">}}
+{{<figure src="/images/type.jpg">}}
 
 砌卡組時有 **人口** 限制（150 ＋領袖技能額外提供），你副卡組每一張牌既 **人口** 加埋唔可以超過呢個上限。
 
-{{<figure src="/images/provision.png">}}
+{{<figure src="/images/provision.jpg">}}
 
 如上圖，如果用 Fruits of Ysgith 做領袖技能，咁副卡組就最多容納 161（=150+11） **人口**，如用 Blood Scent 就 165（=150+15） **人口**，如此類推。
 
@@ -80,7 +80,7 @@ A. 首先，昆特有分金卡同銅卡，可以睇張卡既外框顏色判斷�
 
 留意下圖四張卡既左上有個三角（綠圈圈住），呢個三角既顏色代表稀有度。
 
-{{<figure src="/images/rarity.png">}}
+{{<figure src="/images/rarity.jpg">}}
 
 稀有度由高至低：橙＞紫＞藍＞白。金卡必定為橙或紫，銅卡必定為藍或白。
 

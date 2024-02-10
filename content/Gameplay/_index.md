@@ -55,7 +55,7 @@ A. 有好多，諗到乜講乜：
 <br/><br/>
 （註：長按卡片會彈出卡片效果介面，可從中找到效果一覽）
 <br/><br/>
-{{<img width=auto height=auto src="images/shupeDescription.png">}}
+{{<img width=auto height=auto src="images/shupeDescription.jpg">}}
 <br/>
 {{</expand>}}
 

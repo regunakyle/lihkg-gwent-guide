@@ -30,7 +30,7 @@ A. **Thronebreaker（中譯「王權的隕落」）** 係一隻獨立於昆特�
 
 **Thronebreaker 有繁體中文同普通話配音**。
 
-{{<figure src="/images/thronebreaker.png">}}
+{{<figure src="/images/thronebreaker.jpg">}}
 
 &nbsp;
 
